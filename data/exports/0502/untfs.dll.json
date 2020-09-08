@@ -1,0 +1,611 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "dc83e7e5dae53ec3aa92893cffe4d1cb",
+  "imphash": "dc83e7e5dae53ec3aa92893cffe4d1cb",
+  "InternalName": "UNTFS",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "NTFS Utility DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 384546,
+  "Size": 374272,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "??0NTFS_ATTRIBUTE@@QAE@XZ"
+    },
+    {
+      "ordinal": 2,
+      "name": "??0NTFS_ATTRIBUTE_DEFINITION_TABLE@@QAE@XZ"
+    },
+    {
+      "ordinal": 3,
+      "name": "??0NTFS_ATTRIBUTE_LIST@@QAE@XZ"
+    },
+    {
+      "ordinal": 4,
+      "name": "??0NTFS_ATTRIBUTE_RECORD@@QAE@XZ"
+    },
+    {
+      "ordinal": 5,
+      "name": "??0NTFS_BAD_CLUSTER_FILE@@QAE@XZ"
+    },
+    {
+      "ordinal": 6,
+      "name": "??0NTFS_BITMAP@@QAE@XZ"
+    },
+    {
+      "ordinal": 7,
+      "name": "??0NTFS_BITMAP_FILE@@QAE@XZ"
+    },
+    {
+      "ordinal": 8,
+      "name": "??0NTFS_BOOT_FILE@@QAE@XZ"
+    },
+    {
+      "ordinal": 9,
+      "name": "??0NTFS_CLUSTER_RUN@@QAE@XZ"
+    },
+    {
+      "ordinal": 10,
+      "name": "??0NTFS_EXTENT_LIST@@QAE@XZ"
+    },
+    {
+      "ordinal": 11,
+      "name": "??0NTFS_FILE_RECORD_SEGMENT@@QAE@XZ"
+    },
+    {
+      "ordinal": 12,
+      "name": "??0NTFS_FRS_STRUCTURE@@QAE@XZ"
+    },
+    {
+      "ordinal": 13,
+      "name": "??0NTFS_INDEX_TREE@@QAE@XZ"
+    },
+    {
+      "ordinal": 14,
+      "name": "??0NTFS_LOG_FILE@@QAE@XZ"
+    },
+    {
+      "ordinal": 15,
+      "name": "??0NTFS_MFT_FILE@@QAE@XZ"
+    },
+    {
+      "ordinal": 16,
+      "name": "??0NTFS_MFT_INFO@@QAE@XZ"
+    },
+    {
+      "ordinal": 17,
+      "name": "??0NTFS_REFLECTED_MASTER_FILE_TABLE@@QAE@XZ"
+    },
+    {
+      "ordinal": 18,
+      "name": "??0NTFS_SA@@QAE@XZ"
+    },
+    {
+      "ordinal": 19,
+      "name": "??0NTFS_UPCASE_FILE@@QAE@XZ"
+    },
+    {
+      "ordinal": 20,
+      "name": "??0NTFS_UPCASE_TABLE@@QAE@XZ"
+    },
+    {
+      "ordinal": 21,
+      "name": "??0RA_PROCESS_FILE@@QAE@XZ"
+    },
+    {
+      "ordinal": 22,
+      "name": "??0RA_PROCESS_SD@@QAE@XZ"
+    },
+    {
+      "ordinal": 23,
+      "name": "??1NTFS_ATTRIBUTE@@UAE@XZ"
+    },
+    {
+      "ordinal": 24,
+      "name": "??1NTFS_ATTRIBUTE_DEFINITION_TABLE@@UAE@XZ"
+    },
+    {
+      "ordinal": 25,
+      "name": "??1NTFS_ATTRIBUTE_LIST@@UAE@XZ"
+    },
+    {
+      "ordinal": 26,
+      "name": "??1NTFS_ATTRIBUTE_RECORD@@UAE@XZ"
+    },
+    {
+      "ordinal": 27,
+      "name": "??1NTFS_BAD_CLUSTER_FILE@@UAE@XZ"
+    },
+    {
+      "ordinal": 28,
+      "name": "??1NTFS_BITMAP@@UAE@XZ"
+    },
+    {
+      "ordinal": 29,
+      "name": "??1NTFS_BITMAP_FILE@@UAE@XZ"
+    },
+    {
+      "ordinal": 30,
+      "name": "??1NTFS_BOOT_FILE@@UAE@XZ"
+    },
+    {
+      "ordinal": 31,
+      "name": "??1NTFS_CLUSTER_RUN@@UAE@XZ"
+    },
+    {
+      "ordinal": 32,
+      "name": "??1NTFS_EXTENT_LIST@@UAE@XZ"
+    },
+    {
+      "ordinal": 33,
+      "name": "??1NTFS_FILE_RECORD_SEGMENT@@UAE@XZ"
+    },
+    {
+      "ordinal": 34,
+      "name": "??1NTFS_FRS_STRUCTURE@@UAE@XZ"
+    },
+    {
+      "ordinal": 35,
+      "name": "??1NTFS_INDEX_TREE@@UAE@XZ"
+    },
+    {
+      "ordinal": 36,
+      "name": "??1NTFS_LOG_FILE@@UAE@XZ"
+    },
+    {
+      "ordinal": 37,
+      "name": "??1NTFS_MFT_FILE@@UAE@XZ"
+    },
+    {
+      "ordinal": 38,
+      "name": "??1NTFS_MFT_INFO@@UAE@XZ"
+    },
+    {
+      "ordinal": 39,
+      "name": "??1NTFS_REFLECTED_MASTER_FILE_TABLE@@UAE@XZ"
+    },
+    {
+      "ordinal": 40,
+      "name": "??1NTFS_SA@@UAE@XZ"
+    },
+    {
+      "ordinal": 41,
+      "name": "??1NTFS_UPCASE_FILE@@UAE@XZ"
+    },
+    {
+      "ordinal": 42,
+      "name": "??1NTFS_UPCASE_TABLE@@UAE@XZ"
+    },
+    {
+      "ordinal": 43,
+      "name": "??1RA_PROCESS_FILE@@UAE@XZ"
+    },
+    {
+      "ordinal": 44,
+      "name": "??1RA_PROCESS_SD@@UAE@XZ"
+    },
+    {
+      "ordinal": 45,
+      "name": "?AddExtent@NTFS_EXTENT_LIST@@QAEEVBIG_INT@@00@Z"
+    },
+    {
+      "ordinal": 46,
+      "name": "?AddFileNameAttribute@NTFS_FILE_RECORD_SEGMENT@@QAEEPAU_FILE_NAME@@@Z"
+    },
+    {
+      "ordinal": 47,
+      "name": "?AddSecurityDescriptor@NTFS_FILE_RECORD_SEGMENT@@QAEEW4_CANNED_SECURITY_TYPE@@PAVNTFS_BITMAP@@@Z"
+    },
+    {
+      "ordinal": 48,
+      "name": "?AddSecurityDescriptorData@NTFS_FILE_RECORD_SEGMENT@@QAEEPAVNTFS_ATTRIBUTE@@PAXPAPAU_SECURITY_ENTRY@@KW4_CANNED_SECURITY_TYPE@@PAVNTFS_BITMAP@@E@Z"
+    },
+    {
+      "ordinal": 49,
+      "name": "?AllocateFileRecordSegment@NTFS_MASTER_FILE_TABLE@@QAEEPAVBIG_INT@@E@Z"
+    },
+    {
+      "ordinal": 50,
+      "name": "?CompareDupInfo@NTFS_MFT_INFO@@SGEPAXPAU_FILE_NAME@@@Z"
+    },
+    {
+      "ordinal": 51,
+      "name": "?CompareFileName@NTFS_MFT_INFO@@SGEPAXKPAU_FILE_NAME@@PAG@Z"
+    },
+    {
+      "ordinal": 52,
+      "name": "?ComputeDupInfoSignature@NTFS_MFT_INFO@@CGXPAU_DUPLICATED_INFORMATION@@QAE@Z"
+    },
+    {
+      "ordinal": 53,
+      "name": "?ComputeFileNameSignature@NTFS_MFT_INFO@@CGXKPAU_FILE_NAME@@QAE@Z"
+    },
+    {
+      "ordinal": 54,
+      "name": "?CopyIterator@NTFS_INDEX_TREE@@QAEEPAV1@@Z"
+    },
+    {
+      "ordinal": 55,
+      "name": "?Create@NTFS_FILE_RECORD_SEGMENT@@QAEEPBU_STANDARD_INFORMATION@@G@Z"
+    },
+    {
+      "ordinal": 56,
+      "name": "?CreateDataAttribute@NTFS_LOG_FILE@@QAEEVBIG_INT@@KPAVNTFS_BITMAP@@@Z"
+    },
+    {
+      "ordinal": 57,
+      "name": "?CreateElementaryStructures@NTFS_SA@@QAEEPAVNTFS_BITMAP@@KKKKPBVNUMBER_SET@@EEPAVMESSAGE@@PAUBIOS_PARAMETER_BLOCK@@PBVWSTRING@@@Z"
+    },
+    {
+      "ordinal": 58,
+      "name": "?Extend@NTFS_MASTER_FILE_TABLE@@QAEEK@Z"
+    },
+    {
+      "ordinal": 59,
+      "name": "?Flush@NTFS_FILE_RECORD_SEGMENT@@QAEEPAVNTFS_BITMAP@@PAVNTFS_INDEX_TREE@@E@Z"
+    },
+    {
+      "ordinal": 60,
+      "name": "?Flush@NTFS_MFT_FILE@@QAEEXZ"
+    },
+    {
+      "ordinal": 61,
+      "name": "?GetNext@NTFS_INDEX_TREE@@QAEPBU_INDEX_ENTRY@@PAKPAEE@Z"
+    },
+    {
+      "ordinal": 62,
+      "name": "?GetNextAttributeListEntry@NTFS_ATTRIBUTE_LIST@@QBEPBU_ATTRIBUTE_LIST_ENTRY@@PBU2@@Z"
+    },
+    {
+      "ordinal": 63,
+      "name": "?GetNextAttributeRecord@NTFS_FRS_STRUCTURE@@QAEPAXPBXPAVMESSAGE@@PAE@Z"
+    },
+    {
+      "ordinal": 64,
+      "name": "?Initialize@NTFS_ATTRIBUTE@@QAEEPAVLOG_IO_DP_DRIVE@@KPBVNTFS_EXTENT_LIST@@VBIG_INT@@2KPBVWSTRING@@G@Z"
+    },
+    {
+      "ordinal": 65,
+      "name": "?Initialize@NTFS_ATTRIBUTE@@QAEEPAVLOG_IO_DP_DRIVE@@KPBXKKPBVWSTRING@@G@Z"
+    },
+    {
+      "ordinal": 66,
+      "name": "?Initialize@NTFS_ATTRIBUTE_DEFINITION_TABLE@@QAEEPAVNTFS_MASTER_FILE_TABLE@@E@Z"
+    },
+    {
+      "ordinal": 67,
+      "name": "?Initialize@NTFS_ATTRIBUTE_RECORD@@QAEEPAVIO_DP_DRIVE@@PAX@Z"
+    },
+    {
+      "ordinal": 68,
+      "name": "?Initialize@NTFS_BAD_CLUSTER_FILE@@QAEEPAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 69,
+      "name": "?Initialize@NTFS_BITMAP@@QAEEVBIG_INT@@EPAVLOG_IO_DP_DRIVE@@K@Z"
+    },
+    {
+      "ordinal": 70,
+      "name": "?Initialize@NTFS_BITMAP_FILE@@QAEEPAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 71,
+      "name": "?Initialize@NTFS_BOOT_FILE@@QAEEPAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 72,
+      "name": "?Initialize@NTFS_CLUSTER_RUN@@QAEEPAVMEM@@PAVLOG_IO_DP_DRIVE@@VBIG_INT@@KK@Z"
+    },
+    {
+      "ordinal": 73,
+      "name": "?Initialize@NTFS_EXTENT_LIST@@QAEEVBIG_INT@@0@Z"
+    },
+    {
+      "ordinal": 74,
+      "name": "?Initialize@NTFS_FILE_RECORD_SEGMENT@@QAEEVBIG_INT@@KPAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 75,
+      "name": "?Initialize@NTFS_FILE_RECORD_SEGMENT@@QAEEVBIG_INT@@PAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 76,
+      "name": "?Initialize@NTFS_FILE_RECORD_SEGMENT@@QAEEVBIG_INT@@PAVNTFS_MFT_FILE@@@Z"
+    },
+    {
+      "ordinal": 77,
+      "name": "?Initialize@NTFS_FILE_RECORD_SEGMENT@@QAEEXZ"
+    },
+    {
+      "ordinal": 78,
+      "name": "?Initialize@NTFS_FRS_STRUCTURE@@QAEEPAVMEM@@PAVLOG_IO_DP_DRIVE@@VBIG_INT@@K2KPAVNTFS_UPCASE_TABLE@@K@Z"
+    },
+    {
+      "ordinal": 79,
+      "name": "?Initialize@NTFS_FRS_STRUCTURE@@QAEEPAVMEM@@PAVNTFS_ATTRIBUTE@@VBIG_INT@@K2KPAVNTFS_UPCASE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 80,
+      "name": "?Initialize@NTFS_FRS_STRUCTURE@@QAEEPAVMEM@@PAVNTFS_ATTRIBUTE@@VBIG_INT@@KK2KPAVNTFS_UPCASE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 81,
+      "name": "?Initialize@NTFS_INDEX_TREE@@QAEEKPAVLOG_IO_DP_DRIVE@@KPAVNTFS_BITMAP@@PAVNTFS_UPCASE_TABLE@@KKKPBVWSTRING@@@Z"
+    },
+    {
+      "ordinal": 82,
+      "name": "?Initialize@NTFS_INDEX_TREE@@QAEEPAVLOG_IO_DP_DRIVE@@KPAVNTFS_BITMAP@@PAVNTFS_UPCASE_TABLE@@KPAVNTFS_FILE_RECORD_SEGMENT@@PBVWSTRING@@@Z"
+    },
+    {
+      "ordinal": 83,
+      "name": "?Initialize@NTFS_LOG_FILE@@QAEEPAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 84,
+      "name": "?Initialize@NTFS_MFT_FILE@@QAEEPAVLOG_IO_DP_DRIVE@@VBIG_INT@@KK1PAVNTFS_BITMAP@@PAVNTFS_UPCASE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 85,
+      "name": "?Initialize@NTFS_MFT_INFO@@QAEEVBIG_INT@@PAVNTFS_UPCASE_TABLE@@EE_K@Z"
+    },
+    {
+      "ordinal": 86,
+      "name": "?Initialize@NTFS_MFT_INFO@@QAEEXZ"
+    },
+    {
+      "ordinal": 87,
+      "name": "?Initialize@NTFS_REFLECTED_MASTER_FILE_TABLE@@QAEEPAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 88,
+      "name": "?Initialize@NTFS_SA@@QAEEPAVLOG_IO_DP_DRIVE@@PAVMESSAGE@@VBIG_INT@@2@Z"
+    },
+    {
+      "ordinal": 89,
+      "name": "?Initialize@NTFS_UPCASE_FILE@@QAEEPAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 90,
+      "name": "?Initialize@NTFS_UPCASE_TABLE@@QAEEPAVNTFS_ATTRIBUTE@@@Z"
+    },
+    {
+      "ordinal": 91,
+      "name": "?Initialize@RA_PROCESS_FILE@@SGEPAVNTFS_SA@@VBIG_INT@@PAV3@PAKPAVNTFS_FRS_STRUCTURE@@4PAVHMEM@@5PAX6PAVNTFS_ATTRIBUTE@@PAVNTFS_UPCASE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 92,
+      "name": "?Initialize@RA_PROCESS_SD@@SGEPAVNTFS_SA@@VBIG_INT@@PAV3@PAKPAVNTFS_FILE_RECORD_SEGMENT@@4PAX5PAVNTFS_MASTER_FILE_TABLE@@@Z"
+    },
+    {
+      "ordinal": 93,
+      "name": "?InsertEntry@NTFS_INDEX_TREE@@QAEEKPAXU_MFT_SEGMENT_REFERENCE@@E@Z"
+    },
+    {
+      "ordinal": 94,
+      "name": "?InsertIntoFile@NTFS_ATTRIBUTE@@UAEEPAVNTFS_FILE_RECORD_SEGMENT@@PAVNTFS_BITMAP@@@Z"
+    },
+    {
+      "ordinal": 95,
+      "name": "?IsAllocated@NTFS_BITMAP@@QBEEVBIG_INT@@0@Z"
+    },
+    {
+      "ordinal": 96,
+      "name": "?IsAttributePresent@NTFS_FILE_RECORD_SEGMENT@@QAEEKPBVWSTRING@@E@Z"
+    },
+    {
+      "ordinal": 97,
+      "name": "?IsDosName@NTFS_SA@@SGEPBU_FILE_NAME@@@Z"
+    },
+    {
+      "ordinal": 98,
+      "name": "?IsFree@NTFS_BITMAP@@QBEEVBIG_INT@@0@Z"
+    },
+    {
+      "ordinal": 99,
+      "name": "?IsNtfsName@NTFS_SA@@SGEPBU_FILE_NAME@@@Z"
+    },
+    {
+      "ordinal": 100,
+      "name": "?MakeNonresident@NTFS_ATTRIBUTE@@UAEEPAVNTFS_BITMAP@@@Z"
+    },
+    {
+      "ordinal": 101,
+      "name": "?NtfsUpcaseCompare@@YGJPBGK0KPBVNTFS_UPCASE_TABLE@@E@Z"
+    },
+    {
+      "ordinal": 102,
+      "name": "?QueryAttribute@NTFS_FILE_RECORD_SEGMENT@@QAEEPAVNTFS_ATTRIBUTE@@PAEKPBVWSTRING@@@Z"
+    },
+    {
+      "ordinal": 103,
+      "name": "?QueryAttributeByOrdinal@NTFS_FILE_RECORD_SEGMENT@@QAEEPAVNTFS_ATTRIBUTE@@PAEKK@Z"
+    },
+    {
+      "ordinal": 104,
+      "name": "?QueryAttributeList@NTFS_FRS_STRUCTURE@@QAEEPAVNTFS_ATTRIBUTE_LIST@@@Z"
+    },
+    {
+      "ordinal": 105,
+      "name": "?QueryAttributeListAttribute@NTFS_FILE_RECORD_SEGMENT@@QAEEPAVNTFS_ATTRIBUTE@@PAE@Z"
+    },
+    {
+      "ordinal": 106,
+      "name": "?QueryClusterFactor@NTFS_SA@@QBEEXZ"
+    },
+    {
+      "ordinal": 107,
+      "name": "?QueryDefaultClustersPerIndexBuffer@NTFS_SA@@SGKPBVDP_DRIVE@@K@Z"
+    },
+    {
+      "ordinal": 108,
+      "name": "?QueryEntry@NTFS_INDEX_TREE@@QAEEKPAXKPAPAU_INDEX_ENTRY@@PAPAVNTFS_INDEX_BUFFER@@PAE@Z"
+    },
+    {
+      "ordinal": 109,
+      "name": "?QueryExtent@NTFS_EXTENT_LIST@@QBEEKPAVBIG_INT@@00@Z"
+    },
+    {
+      "ordinal": 110,
+      "name": "?QueryExtentList@NTFS_ATTRIBUTE_RECORD@@QBEEPAVNTFS_EXTENT_LIST@@@Z"
+    },
+    {
+      "ordinal": 111,
+      "name": "?QueryFileReference@NTFS_INDEX_TREE@@QAEEKPAXKPAU_MFT_SEGMENT_REFERENCE@@PAE@Z"
+    },
+    {
+      "ordinal": 112,
+      "name": "?QueryFileSizes@NTFS_FILE_RECORD_SEGMENT@@QAEEPAVBIG_INT@@0PAE@Z"
+    },
+    {
+      "ordinal": 113,
+      "name": "?QueryFlags@NTFS_MFT_INFO@@SGEPAXG@Z"
+    },
+    {
+      "ordinal": 114,
+      "name": "?QueryFrsFromPath@NTFS_SA@@QAEEPBVWSTRING@@PAVNTFS_MASTER_FILE_TABLE@@PAVNTFS_BITMAP@@PAVNTFS_FILE_RECORD_SEGMENT@@PAE4@Z"
+    },
+    {
+      "ordinal": 115,
+      "name": "?QueryLcnFromVcn@NTFS_EXTENT_LIST@@QBEEVBIG_INT@@PAV2@1@Z"
+    },
+    {
+      "ordinal": 116,
+      "name": "?QueryName@NTFS_ATTRIBUTE_RECORD@@QBEEPAVWSTRING@@@Z"
+    },
+    {
+      "ordinal": 117,
+      "name": "?QueryNextEntry@NTFS_ATTRIBUTE_LIST@@QBEEPAU_ATTR_LIST_CURR_ENTRY@@PAKPAVBIG_INT@@PAU_MFT_SEGMENT_REFERENCE@@PAGPAVWSTRING@@@Z"
+    },
+    {
+      "ordinal": 118,
+      "name": "?QueryNumberOfExtents@NTFS_EXTENT_LIST@@QBEKXZ"
+    },
+    {
+      "ordinal": 119,
+      "name": "?QuerySectorsInElementaryStructures@NTFS_SA@@SGKPBVDP_DRIVE@@KKKK@Z"
+    },
+    {
+      "ordinal": 120,
+      "name": "?QuerySegmentReference@NTFS_MFT_INFO@@SG?AU_MFT_SEGMENT_REFERENCE@@PAX@Z"
+    },
+    {
+      "ordinal": 121,
+      "name": "?QueryVolumeFlagsAndLabel@NTFS_SA@@QAEGPAE00PAVWSTRING@@@Z"
+    },
+    {
+      "ordinal": 122,
+      "name": "?Read@NTFS_ATTRIBUTE@@QAEEPAXVBIG_INT@@KPAK@Z"
+    },
+    {
+      "ordinal": 123,
+      "name": "?Read@NTFS_FRS_STRUCTURE@@UAEEXZ"
+    },
+    {
+      "ordinal": 124,
+      "name": "?Read@NTFS_MFT_FILE@@UAEEXZ"
+    },
+    {
+      "ordinal": 125,
+      "name": "?Read@NTFS_SA@@QAEEPAVMESSAGE@@@Z"
+    },
+    {
+      "ordinal": 126,
+      "name": "?Read@NTFS_SA@@UAEEXZ"
+    },
+    {
+      "ordinal": 127,
+      "name": "?ReadAgain@NTFS_FRS_STRUCTURE@@QAEEVBIG_INT@@@Z"
+    },
+    {
+      "ordinal": 128,
+      "name": "?ReadList@NTFS_ATTRIBUTE_LIST@@QAEEXZ"
+    },
+    {
+      "ordinal": 129,
+      "name": "?ReadNext@NTFS_FRS_STRUCTURE@@QAEEVBIG_INT@@@Z"
+    },
+    {
+      "ordinal": 130,
+      "name": "?ReadSet@NTFS_FRS_STRUCTURE@@QAEEPAVTLINK@@@Z"
+    },
+    {
+      "ordinal": 131,
+      "name": "?Relocate@NTFS_CLUSTER_RUN@@QAEXVBIG_INT@@@Z"
+    },
+    {
+      "ordinal": 132,
+      "name": "?ResetIterator@NTFS_INDEX_TREE@@QAEXXZ"
+    },
+    {
+      "ordinal": 133,
+      "name": "?Resize@NTFS_ATTRIBUTE@@UAEEVBIG_INT@@PAVNTFS_BITMAP@@@Z"
+    },
+    {
+      "ordinal": 134,
+      "name": "?SafeQueryAttribute@NTFS_FRS_STRUCTURE@@QAEEKPAVNTFS_ATTRIBUTE@@0@Z"
+    },
+    {
+      "ordinal": 135,
+      "name": "?Save@NTFS_INDEX_TREE@@QAEEPAVNTFS_FILE_RECORD_SEGMENT@@@Z"
+    },
+    {
+      "ordinal": 136,
+      "name": "?SetSparse@NTFS_ATTRIBUTE@@UAEEVBIG_INT@@PAVNTFS_BITMAP@@@Z"
+    },
+    {
+      "ordinal": 137,
+      "name": "?SetVolumeFlag@NTFS_SA@@QAEEGPAE@Z"
+    },
+    {
+      "ordinal": 138,
+      "name": "?TakeCensus@NTFS_SA@@QAEEPAVNTFS_MASTER_FILE_TABLE@@KPAUNTFS_CENSUS_INFO@@@Z"
+    },
+    {
+      "ordinal": 139,
+      "name": "?Write@NTFS_ATTRIBUTE@@UAEEPBXVBIG_INT@@KPAKPAVNTFS_BITMAP@@@Z"
+    },
+    {
+      "ordinal": 140,
+      "name": "?Write@NTFS_BITMAP@@QAEEPAVNTFS_ATTRIBUTE@@PAV1@@Z"
+    },
+    {
+      "ordinal": 141,
+      "name": "?Write@NTFS_FILE_RECORD_SEGMENT@@UAEEXZ"
+    },
+    {
+      "ordinal": 142,
+      "name": "?Write@NTFS_FRS_STRUCTURE@@QAEEXZ"
+    },
+    {
+      "ordinal": 143,
+      "name": "?WriteRemainingBootCode@NTFS_SA@@QAEEXZ"
+    },
+    {
+      "ordinal": 144,
+      "name": "Chkdsk"
+    },
+    {
+      "ordinal": 145,
+      "name": "ChkdskEx"
+    },
+    {
+      "ordinal": 146,
+      "name": "Extend"
+    },
+    {
+      "ordinal": 147,
+      "name": "Format"
+    },
+    {
+      "ordinal": 148,
+      "name": "FormatEx"
+    },
+    {
+      "ordinal": 149,
+      "name": "Recover"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "064d55f17130a50a30dad0cf976efc2f",
+  "imphash": "064d55f17130a50a30dad0cf976efc2f",
+  "InternalName": "streamci.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Streaming Device Class Installer",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 79433,
+  "Size": 15872,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "StreamingDeviceClassInstaller"
+    },
+    {
+      "ordinal": 2,
+      "name": "StreamingDeviceRemove"
+    },
+    {
+      "ordinal": 3,
+      "name": "StreamingDeviceRemoveA"
+    },
+    {
+      "ordinal": 4,
+      "name": "StreamingDeviceRemoveW"
+    },
+    {
+      "ordinal": 5,
+      "name": "StreamingDeviceSetup"
+    },
+    {
+      "ordinal": 6,
+      "name": "StreamingDeviceSetupA"
+    },
+    {
+      "ordinal": 7,
+      "name": "StreamingDeviceSetupW"
+    },
+    {
+      "ordinal": 8,
+      "name": "SwEnumCoInstaller"
+    }
+  ]
+}

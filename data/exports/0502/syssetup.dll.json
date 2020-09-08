@@ -1,0 +1,367 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "0ea6450a7279bcaf769c924d0bed7931",
+  "imphash": "0ea6450a7279bcaf769c924d0bed7931",
+  "InternalName": "SYSSETUP.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows NT System Setup",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 1145045,
+  "Size": 1107456,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "AsrAddSifEntryA"
+    },
+    {
+      "ordinal": 2,
+      "name": "AsrAddSifEntryW"
+    },
+    {
+      "ordinal": 3,
+      "name": "AsrCreateStateFileA"
+    },
+    {
+      "ordinal": 4,
+      "name": "AsrCreateStateFileW"
+    },
+    {
+      "ordinal": 5,
+      "name": "AsrFreeContext"
+    },
+    {
+      "ordinal": 6,
+      "name": "AsrRestorePlugPlayRegistryData"
+    },
+    {
+      "ordinal": 7,
+      "name": "AsrpGetLocalDiskInfo"
+    },
+    {
+      "ordinal": 8,
+      "name": "AsrpGetLocalVolumeInfo"
+    },
+    {
+      "ordinal": 9,
+      "name": "AsrpRestoreNonCriticalDisksW"
+    },
+    {
+      "ordinal": 10,
+      "name": "ComputerClassInstaller"
+    },
+    {
+      "ordinal": 11,
+      "name": "CreateLocalAdminAccount"
+    },
+    {
+      "ordinal": 12,
+      "name": "CreateLocalAdminAccountEx"
+    },
+    {
+      "ordinal": 13,
+      "name": "CreateLocalUserAccount"
+    },
+    {
+      "ordinal": 14,
+      "name": "CriticalDeviceCoInstaller"
+    },
+    {
+      "ordinal": 15,
+      "name": "DevInstallW"
+    },
+    {
+      "ordinal": 16,
+      "name": "DeviceBayClassInstaller"
+    },
+    {
+      "ordinal": 17,
+      "name": "DiskPropPageProvider"
+    },
+    {
+      "ordinal": 18,
+      "name": "DoInstallComponentInfs"
+    },
+    {
+      "ordinal": 19,
+      "name": "EisaUpHalCoInstaller"
+    },
+    {
+      "ordinal": 20,
+      "name": "GenerateName"
+    },
+    {
+      "ordinal": 21,
+      "name": "GetAnswerFileSetting"
+    },
+    {
+      "ordinal": 22,
+      "name": "HdcClassInstaller"
+    },
+    {
+      "ordinal": 23,
+      "name": "InitializeSetupLog"
+    },
+    {
+      "ordinal": 24,
+      "name": "InstallWindowsNt"
+    },
+    {
+      "ordinal": 25,
+      "name": "InvokeExternalApplicationEx"
+    },
+    {
+      "ordinal": 26,
+      "name": "KeyboardClassInstaller"
+    },
+    {
+      "ordinal": 27,
+      "name": "LegacyDriverPropPageProvider"
+    },
+    {
+      "ordinal": 28,
+      "name": "MigrateExceptionPackages"
+    },
+    {
+      "ordinal": 29,
+      "name": "MouseClassInstaller"
+    },
+    {
+      "ordinal": 30,
+      "name": "NtApmClassInstaller"
+    },
+    {
+      "ordinal": 31,
+      "name": "OpkCheckVersion"
+    },
+    {
+      "ordinal": 32,
+      "name": "PS2MousePropPageProvider"
+    },
+    {
+      "ordinal": 33,
+      "name": "PnPInitializationThread"
+    },
+    {
+      "ordinal": 34,
+      "name": "PrepareForAudit"
+    },
+    {
+      "ordinal": 35,
+      "name": "RepairStartMenuItems"
+    },
+    {
+      "ordinal": 36,
+      "name": "ReportError"
+    },
+    {
+      "ordinal": 37,
+      "name": "RunOEMExtraTasks"
+    },
+    {
+      "ordinal": 38,
+      "name": "ScsiClassInstaller"
+    },
+    {
+      "ordinal": 39,
+      "name": "SetAccountsDomainSid"
+    },
+    {
+      "ordinal": 40,
+      "name": "SetupAddOrRemoveTestCertificate"
+    },
+    {
+      "ordinal": 41,
+      "name": "SetupChangeFontSize"
+    },
+    {
+      "ordinal": 42,
+      "name": "SetupChangeLocale"
+    },
+    {
+      "ordinal": 43,
+      "name": "SetupChangeLocaleEx"
+    },
+    {
+      "ordinal": 44,
+      "name": "SetupCreateOptionalComponentsPage"
+    },
+    {
+      "ordinal": 45,
+      "name": "SetupDestroyLanguageList"
+    },
+    {
+      "ordinal": 46,
+      "name": "SetupDestroyPhoneList"
+    },
+    {
+      "ordinal": 47,
+      "name": "SetupEnumerateRegisteredOsComponents"
+    },
+    {
+      "ordinal": 48,
+      "name": "SetupExtendPartition"
+    },
+    {
+      "ordinal": 49,
+      "name": "SetupGetGeoOptions"
+    },
+    {
+      "ordinal": 50,
+      "name": "SetupGetInstallMode"
+    },
+    {
+      "ordinal": 51,
+      "name": "SetupGetKeyboardOptions"
+    },
+    {
+      "ordinal": 52,
+      "name": "SetupGetLocaleOptions"
+    },
+    {
+      "ordinal": 53,
+      "name": "SetupGetProductType"
+    },
+    {
+      "ordinal": 54,
+      "name": "SetupGetSetupInfo"
+    },
+    {
+      "ordinal": 55,
+      "name": "SetupGetValidEula"
+    },
+    {
+      "ordinal": 56,
+      "name": "SetupIEHardeningSettings"
+    },
+    {
+      "ordinal": 57,
+      "name": "SetupInfObjectInstallActionW"
+    },
+    {
+      "ordinal": 58,
+      "name": "SetupInstallCatalog"
+    },
+    {
+      "ordinal": 59,
+      "name": "SetupMapTapiToIso"
+    },
+    {
+      "ordinal": 60,
+      "name": "SetupOobeBnk"
+    },
+    {
+      "ordinal": 61,
+      "name": "SetupOobeCleanup"
+    },
+    {
+      "ordinal": 62,
+      "name": "SetupOobeInitDebugLog"
+    },
+    {
+      "ordinal": 63,
+      "name": "SetupOobeInitPostServices"
+    },
+    {
+      "ordinal": 64,
+      "name": "SetupOobeInitPreServices"
+    },
+    {
+      "ordinal": 65,
+      "name": "SetupPidGen3"
+    },
+    {
+      "ordinal": 66,
+      "name": "SetupQueryRegisteredOsComponent"
+    },
+    {
+      "ordinal": 67,
+      "name": "SetupQueryRegisteredOsComponentsOrder"
+    },
+    {
+      "ordinal": 68,
+      "name": "SetupReadPhoneList"
+    },
+    {
+      "ordinal": 69,
+      "name": "SetupRegisterOsComponent"
+    },
+    {
+      "ordinal": 70,
+      "name": "SetupSetAdminPassword"
+    },
+    {
+      "ordinal": 71,
+      "name": "SetupSetDisplay"
+    },
+    {
+      "ordinal": 72,
+      "name": "SetupSetIntlOptions"
+    },
+    {
+      "ordinal": 73,
+      "name": "SetupSetRegisteredOsComponentsOrder"
+    },
+    {
+      "ordinal": 74,
+      "name": "SetupSetSetupInfo"
+    },
+    {
+      "ordinal": 75,
+      "name": "SetupShellSettings"
+    },
+    {
+      "ordinal": 76,
+      "name": "SetupStartService"
+    },
+    {
+      "ordinal": 77,
+      "name": "SetupUnRegisterOsComponent"
+    },
+    {
+      "ordinal": 78,
+      "name": "StorageCoInstaller"
+    },
+    {
+      "ordinal": 79,
+      "name": "SystemUpdateUserProfileDirectory"
+    },
+    {
+      "ordinal": 80,
+      "name": "TapeClassInstaller"
+    },
+    {
+      "ordinal": 81,
+      "name": "TapePropPageProvider"
+    },
+    {
+      "ordinal": 82,
+      "name": "TerminateSetupLog"
+    },
+    {
+      "ordinal": 83,
+      "name": "UpdatePnpDeviceDrivers"
+    },
+    {
+      "ordinal": 84,
+      "name": "UpgradePrinters"
+    },
+    {
+      "ordinal": 85,
+      "name": "ViewSetupActionLog"
+    },
+    {
+      "ordinal": 86,
+      "name": "VolumeClassInstaller"
+    },
+    {
+      "ordinal": 87,
+      "name": "pSetupDebugPrint"
+    },
+    {
+      "ordinal": 88,
+      "name": "pSetuplogSfcError"
+    }
+  ]
+}

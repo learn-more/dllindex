@@ -1,0 +1,35 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "9944c8259c6ed9fed90db97756279213",
+  "imphash": "9944c8259c6ed9fed90db97756279213",
+  "InternalName": "THEMEUI",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Theme API",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 484261,
+  "Size": 444416,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 2,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 3,
+      "name": "DllInstall"
+    },
+    {
+      "ordinal": 4,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 5,
+      "name": "DllUnregisterServer"
+    }
+  ]
+}

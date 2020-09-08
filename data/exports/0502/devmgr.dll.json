@@ -1,0 +1,103 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "29ace999e7568d2107c36e025d139248",
+  "imphash": "29ace999e7568d2107c36e025d139248",
+  "InternalName": "devmgr",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Device Manager MMC Snapin",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 325950,
+  "Size": 300544,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 17,
+      "name": "DeviceAdvancedPropertiesA"
+    },
+    {
+      "ordinal": 18,
+      "name": "DeviceAdvancedPropertiesW"
+    },
+    {
+      "ordinal": 19,
+      "name": "DeviceCreateHardwarePage"
+    },
+    {
+      "ordinal": 20,
+      "name": "DeviceCreateHardwarePageEx"
+    },
+    {
+      "ordinal": 9,
+      "name": "DeviceManager_ExecuteA"
+    },
+    {
+      "ordinal": 10,
+      "name": "DeviceManager_ExecuteW"
+    },
+    {
+      "ordinal": 11,
+      "name": "DeviceProblemTextA"
+    },
+    {
+      "ordinal": 12,
+      "name": "DeviceProblemTextW"
+    },
+    {
+      "ordinal": 13,
+      "name": "DeviceProblemWizardA"
+    },
+    {
+      "ordinal": 14,
+      "name": "DeviceProblemWizardW"
+    },
+    {
+      "ordinal": 23,
+      "name": "DeviceProblenWizard_RunDLLA"
+    },
+    {
+      "ordinal": 24,
+      "name": "DeviceProblenWizard_RunDLLW"
+    },
+    {
+      "ordinal": 7,
+      "name": "DevicePropertiesA"
+    },
+    {
+      "ordinal": 21,
+      "name": "DevicePropertiesExA"
+    },
+    {
+      "ordinal": 22,
+      "name": "DevicePropertiesExW"
+    },
+    {
+      "ordinal": 8,
+      "name": "DevicePropertiesW"
+    },
+    {
+      "ordinal": 5,
+      "name": "DeviceProperties_RunDLLA"
+    },
+    {
+      "ordinal": 6,
+      "name": "DeviceProperties_RunDLLW"
+    },
+    {
+      "ordinal": 15,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 16,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 25,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 26,
+      "name": "DllUnregisterServer"
+    }
+  ]
+}

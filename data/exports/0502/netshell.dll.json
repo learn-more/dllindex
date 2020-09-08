@@ -1,0 +1,151 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "9b1b5ac913a5a5d9e3e9a9903eb481b3",
+  "imphash": "9b1b5ac913a5a5d9e3e9a9903eb481b3",
+  "InternalName": "netshell.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Network Connections Shell",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 2373192,
+  "Size": 2332672,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 2,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 3,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 4,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 5,
+      "name": "DllUnregisterServer"
+    },
+    {
+      "ordinal": 1,
+      "name": "DoInitialCleanup"
+    },
+    {
+      "ordinal": 6,
+      "name": "HrCreateDesktopIcon"
+    },
+    {
+      "ordinal": 7,
+      "name": "HrGetAnswerFileParametersForNetCard"
+    },
+    {
+      "ordinal": 8,
+      "name": "HrGetExtendedStatusFromNCS"
+    },
+    {
+      "ordinal": 9,
+      "name": "HrGetIconFromMediaType"
+    },
+    {
+      "ordinal": 10,
+      "name": "HrGetIconFromMediaTypeEx"
+    },
+    {
+      "ordinal": 11,
+      "name": "HrGetInstanceGuidOfPreNT5NetCardInstance"
+    },
+    {
+      "ordinal": 12,
+      "name": "HrGetNetConExtendedStatusFromGuid"
+    },
+    {
+      "ordinal": 13,
+      "name": "HrGetNetConExtendedStatusFromINetConnection"
+    },
+    {
+      "ordinal": 14,
+      "name": "HrGetStatusStringFromNetConExtendedStatus"
+    },
+    {
+      "ordinal": 15,
+      "name": "HrIsIpStateCheckingEnabled"
+    },
+    {
+      "ordinal": 16,
+      "name": "HrLaunchConnection"
+    },
+    {
+      "ordinal": 17,
+      "name": "HrLaunchConnectionEx"
+    },
+    {
+      "ordinal": 18,
+      "name": "HrLaunchNetworkOptionalComponents"
+    },
+    {
+      "ordinal": 19,
+      "name": "HrOemUpgrade"
+    },
+    {
+      "ordinal": 20,
+      "name": "HrRenameConnection"
+    },
+    {
+      "ordinal": 21,
+      "name": "HrRunWizard"
+    },
+    {
+      "ordinal": 22,
+      "name": "InvokeDunFile"
+    },
+    {
+      "ordinal": 23,
+      "name": "NcFreeNetconProperties"
+    },
+    {
+      "ordinal": 24,
+      "name": "NcIsValidConnectionName"
+    },
+    {
+      "ordinal": 25,
+      "name": "NetSetupAddRasConnection"
+    },
+    {
+      "ordinal": 26,
+      "name": "NetSetupFinishInstall"
+    },
+    {
+      "ordinal": 27,
+      "name": "NetSetupInstallSoftware"
+    },
+    {
+      "ordinal": 28,
+      "name": "NetSetupPrepareSysPrep"
+    },
+    {
+      "ordinal": 29,
+      "name": "NetSetupRequestWizardPages"
+    },
+    {
+      "ordinal": 30,
+      "name": "NetSetupSetProgressCallback"
+    },
+    {
+      "ordinal": 31,
+      "name": "NormalizeExtendedStatus"
+    },
+    {
+      "ordinal": 32,
+      "name": "RaiseSupportDialog"
+    },
+    {
+      "ordinal": 33,
+      "name": "RepairConnection"
+    },
+    {
+      "ordinal": 34,
+      "name": "StartNCW"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "fc5be9d359acb77932ea451c6e046215",
+  "imphash": "fc5be9d359acb77932ea451c6e046215",
+  "InternalName": "fmifs",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "FM IFS Utility DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 84039,
+  "Size": 20992,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "Chkdsk"
+    },
+    {
+      "ordinal": 2,
+      "name": "ChkdskEx"
+    },
+    {
+      "ordinal": 3,
+      "name": "ComputeFmMediaType"
+    },
+    {
+      "ordinal": 4,
+      "name": "DiskCopy"
+    },
+    {
+      "ordinal": 5,
+      "name": "EnableVolumeCompression"
+    },
+    {
+      "ordinal": 6,
+      "name": "Extend"
+    },
+    {
+      "ordinal": 7,
+      "name": "Format"
+    },
+    {
+      "ordinal": 9,
+      "name": "FormatEx"
+    },
+    {
+      "ordinal": 8,
+      "name": "FormatEx2"
+    },
+    {
+      "ordinal": 10,
+      "name": "QueryAvailableFileSystemFormat"
+    },
+    {
+      "ordinal": 11,
+      "name": "QueryDeviceInformation"
+    },
+    {
+      "ordinal": 12,
+      "name": "QueryDeviceInformationByHandle"
+    },
+    {
+      "ordinal": 13,
+      "name": "QueryFileSystemName"
+    },
+    {
+      "ordinal": 14,
+      "name": "QueryLatestFileSystemVersion"
+    },
+    {
+      "ordinal": 15,
+      "name": "QuerySupportedMedia"
+    },
+    {
+      "ordinal": 16,
+      "name": "SetLabel"
+    }
+  ]
+}

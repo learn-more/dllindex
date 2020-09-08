@@ -1,0 +1,19 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "725daa3a9ca6cd9aee712170d0b800bd",
+  "imphash": "725daa3a9ca6cd9aee712170d0b800bd",
+  "InternalName": "UManDlg",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "UManDlg DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 58704,
+  "Size": 37888,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "UManDlg"
+    }
+  ]
+}

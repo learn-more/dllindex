@@ -1,0 +1,51 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "9beea1ecef294e170dae9f10c76cc4e3",
+  "imphash": "9beea1ecef294e170dae9f10c76cc4e3",
+  "InternalName": "Umpnpmgr.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "User-mode Plug-and-Play Service",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 181105,
+  "Size": 161792,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DeleteServicePlugPlayRegKeys"
+    },
+    {
+      "ordinal": 2,
+      "name": "PNP_GetDeviceList"
+    },
+    {
+      "ordinal": 3,
+      "name": "PNP_GetDeviceListSize"
+    },
+    {
+      "ordinal": 4,
+      "name": "PNP_GetDeviceRegProp"
+    },
+    {
+      "ordinal": 5,
+      "name": "PNP_HwProfFlags"
+    },
+    {
+      "ordinal": 6,
+      "name": "PNP_SetActiveService"
+    },
+    {
+      "ordinal": 7,
+      "name": "RegisterScmCallback"
+    },
+    {
+      "ordinal": 8,
+      "name": "RegisterServiceNotification"
+    },
+    {
+      "ordinal": 9,
+      "name": "SvcEntry_PlugPlay"
+    }
+  ]
+}

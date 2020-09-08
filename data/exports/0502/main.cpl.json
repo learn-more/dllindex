@@ -1,0 +1,19 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "cebb83243a9ee6c801b23ee99d1f5edb",
+  "imphash": "cebb83243a9ee6c801b23ee99d1f5edb",
+  "InternalName": "main.cpl",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Mouse and Keyboard Control Panel Applets",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 233991,
+  "Size": 192512,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CPlApplet"
+    }
+  ]
+}

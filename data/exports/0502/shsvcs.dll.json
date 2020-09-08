@@ -1,0 +1,79 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "35546bb9afcb89bf30ac80c0bbf22f49",
+  "imphash": "35546bb9afcb89bf30ac80c0bbf22f49",
+  "InternalName": "SHSVCS",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Shell Services Dll",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 259786,
+  "Size": 202240,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 7,
+      "name": "BadApplicationServiceMain"
+    },
+    {
+      "ordinal": 13,
+      "name": "CreateHardwareEventMoniker"
+    },
+    {
+      "ordinal": 14,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 15,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 8,
+      "name": "DllInstall"
+    },
+    {
+      "ordinal": 9,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 10,
+      "name": "DllUnregisterServer"
+    },
+    {
+      "ordinal": 16,
+      "name": "FUSCompatibilityEntryW"
+    },
+    {
+      "ordinal": 11,
+      "name": "HardwareDetectionServiceMain"
+    },
+    {
+      "ordinal": 12,
+      "name": "ThemeServiceMain"
+    },
+    {
+      "ordinal": 1,
+      "name": null
+    },
+    {
+      "ordinal": 2,
+      "name": null
+    },
+    {
+      "ordinal": 3,
+      "name": null
+    },
+    {
+      "ordinal": 4,
+      "name": null
+    },
+    {
+      "ordinal": 5,
+      "name": null
+    },
+    {
+      "ordinal": 6,
+      "name": null
+    }
+  ]
+}

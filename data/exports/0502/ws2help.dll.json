@@ -1,0 +1,107 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "c0449506dac83e9efbaa210fd74dea4a",
+  "imphash": "c0449506dac83e9efbaa210fd74dea4a",
+  "InternalName": "ws2help.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Socket 2.0 Helper for Windows NT",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 31354,
+  "Size": 30720,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "WahCloseApcHelper"
+    },
+    {
+      "ordinal": 2,
+      "name": "WahCloseHandleHelper"
+    },
+    {
+      "ordinal": 3,
+      "name": "WahCloseNotificationHandleHelper"
+    },
+    {
+      "ordinal": 4,
+      "name": "WahCloseSocketHandle"
+    },
+    {
+      "ordinal": 5,
+      "name": "WahCloseThread"
+    },
+    {
+      "ordinal": 6,
+      "name": "WahCompleteRequest"
+    },
+    {
+      "ordinal": 7,
+      "name": "WahCreateHandleContextTable"
+    },
+    {
+      "ordinal": 8,
+      "name": "WahCreateNotificationHandle"
+    },
+    {
+      "ordinal": 9,
+      "name": "WahCreateSocketHandle"
+    },
+    {
+      "ordinal": 10,
+      "name": "WahDestroyHandleContextTable"
+    },
+    {
+      "ordinal": 11,
+      "name": "WahDisableNonIFSHandleSupport"
+    },
+    {
+      "ordinal": 12,
+      "name": "WahEnableNonIFSHandleSupport"
+    },
+    {
+      "ordinal": 13,
+      "name": "WahEnumerateHandleContexts"
+    },
+    {
+      "ordinal": 14,
+      "name": "WahInsertHandleContext"
+    },
+    {
+      "ordinal": 15,
+      "name": "WahNotifyAllProcesses"
+    },
+    {
+      "ordinal": 16,
+      "name": "WahOpenApcHelper"
+    },
+    {
+      "ordinal": 17,
+      "name": "WahOpenCurrentThread"
+    },
+    {
+      "ordinal": 18,
+      "name": "WahOpenHandleHelper"
+    },
+    {
+      "ordinal": 19,
+      "name": "WahOpenNotificationHandleHelper"
+    },
+    {
+      "ordinal": 20,
+      "name": "WahQueueUserApc"
+    },
+    {
+      "ordinal": 21,
+      "name": "WahReferenceContextByHandle"
+    },
+    {
+      "ordinal": 22,
+      "name": "WahRemoveHandleContext"
+    },
+    {
+      "ordinal": 23,
+      "name": "WahWaitForNotification"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "c2ef5c01a85d9503a3d5e630b97937d3",
+  "imphash": "c2ef5c01a85d9503a3d5e630b97937d3",
+  "InternalName": "basesrv",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows NT BASE API Server DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 88602,
+  "Size": 69120,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "BaseSetProcessCreateNotify"
+    },
+    {
+      "ordinal": 2,
+      "name": "BaseSrvNlsLogon"
+    },
+    {
+      "ordinal": 3,
+      "name": "BaseSrvNlsUpdateRegistryCache"
+    },
+    {
+      "ordinal": 4,
+      "name": "ServerDllInitialization"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "0219aab9fecb839562357661ccd08130",
+  "imphash": "0219aab9fecb839562357661ccd08130",
+  "InternalName": "ntlanman.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Microsoft\u00ae Lan Manager",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 87370,
+  "Size": 48640,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 14,
+      "name": "DllMain"
+    },
+    {
+      "ordinal": 15,
+      "name": "I_SystemFocusDialog"
+    },
+    {
+      "ordinal": 19,
+      "name": "IsDfsPathEx"
+    },
+    {
+      "ordinal": 17,
+      "name": "NPAddConnection"
+    },
+    {
+      "ordinal": 38,
+      "name": "NPAddConnection3"
+    },
+    {
+      "ordinal": 20,
+      "name": "NPAddConnection3ForCSCAgent"
+    },
+    {
+      "ordinal": 18,
+      "name": "NPCancelConnection"
+    },
+    {
+      "ordinal": 21,
+      "name": "NPCancelConnectionForCSCAgent"
+    },
+    {
+      "ordinal": 35,
+      "name": "NPCloseEnum"
+    },
+    {
+      "ordinal": 31,
+      "name": "NPDirectoryNotify"
+    },
+    {
+      "ordinal": 34,
+      "name": "NPEnumResource"
+    },
+    {
+      "ordinal": 36,
+      "name": "NPFormatNetworkName"
+    },
+    {
+      "ordinal": 13,
+      "name": "NPGetCaps"
+    },
+    {
+      "ordinal": 12,
+      "name": "NPGetConnection"
+    },
+    {
+      "ordinal": 54,
+      "name": "NPGetConnection3"
+    },
+    {
+      "ordinal": 49,
+      "name": "NPGetConnectionPerformance"
+    },
+    {
+      "ordinal": 30,
+      "name": "NPGetDirectoryType"
+    },
+    {
+      "ordinal": 32,
+      "name": "NPGetPropertyText"
+    },
+    {
+      "ordinal": 53,
+      "name": "NPGetReconnectFlags"
+    },
+    {
+      "ordinal": 52,
+      "name": "NPGetResourceInformation"
+    },
+    {
+      "ordinal": 41,
+      "name": "NPGetResourceParent"
+    },
+    {
+      "ordinal": 40,
+      "name": "NPGetUniversalName"
+    },
+    {
+      "ordinal": 16,
+      "name": "NPGetUser"
+    },
+    {
+      "ordinal": 33,
+      "name": "NPOpenEnum"
+    },
+    {
+      "ordinal": 29,
+      "name": "NPPropertyDialog"
+    },
+    {
+      "ordinal": 22,
+      "name": "ServerBrowseDialogA0"
+    },
+    {
+      "ordinal": 23,
+      "name": "ShareAsDialogA0"
+    },
+    {
+      "ordinal": 24,
+      "name": "ShareCreate"
+    },
+    {
+      "ordinal": 25,
+      "name": "ShareManage"
+    },
+    {
+      "ordinal": 26,
+      "name": "ShareStop"
+    },
+    {
+      "ordinal": 27,
+      "name": "StopShareDialogA0"
+    }
+  ]
+}

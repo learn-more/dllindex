@@ -1,0 +1,31 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "87ad7d7db427469fc9010b4f8520ad08",
+  "imphash": "87ad7d7db427469fc9010b4f8520ad08",
+  "InternalName": "sendmail",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Send Mail",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 118289,
+  "Size": 70144,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 2,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 3,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 4,
+      "name": "DllUnregisterServer"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "00ee4d4c181ef18cf9c0abe65718cf16",
+  "imphash": "00ee4d4c181ef18cf9c0abe65718cf16",
+  "InternalName": "verifier.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Standard application verifier provider dll",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 147856,
+  "Size": 97280,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "VerifierAddFreeMemoryCallback"
+    },
+    {
+      "ordinal": 2,
+      "name": "VerifierCreateRpcPageHeap"
+    },
+    {
+      "ordinal": 3,
+      "name": "VerifierDeleteFreeMemoryCallback"
+    },
+    {
+      "ordinal": 4,
+      "name": "VerifierDestroyRpcPageHeap"
+    },
+    {
+      "ordinal": 5,
+      "name": "VerifierDisableFaultInjectionExclusionRange"
+    },
+    {
+      "ordinal": 6,
+      "name": "VerifierDisableFaultInjectionTargetRange"
+    },
+    {
+      "ordinal": 7,
+      "name": "VerifierEnableFaultInjectionExclusionRange"
+    },
+    {
+      "ordinal": 8,
+      "name": "VerifierEnableFaultInjectionTargetRange"
+    },
+    {
+      "ordinal": 9,
+      "name": "VerifierEnumerateResource"
+    },
+    {
+      "ordinal": 10,
+      "name": "VerifierIsCurrentThreadHoldingLocks"
+    },
+    {
+      "ordinal": 11,
+      "name": "VerifierIsDllEntryActive"
+    },
+    {
+      "ordinal": 12,
+      "name": "VerifierLogMessage"
+    },
+    {
+      "ordinal": 13,
+      "name": "VerifierQueryRuntimeFlags"
+    },
+    {
+      "ordinal": 14,
+      "name": "VerifierSetFaultInjectionProbability"
+    },
+    {
+      "ordinal": 15,
+      "name": "VerifierSetFlags"
+    },
+    {
+      "ordinal": 16,
+      "name": "VerifierSetRuntimeFlags"
+    },
+    {
+      "ordinal": 17,
+      "name": "VerifierStopMessage"
+    }
+  ]
+}

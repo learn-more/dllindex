@@ -1,0 +1,31 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "675d9b7f65fac2a7b74f26b83e6a36dd",
+  "imphash": "675d9b7f65fac2a7b74f26b83e6a36dd",
+  "InternalName": "FontExt",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Font Folder",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 420142,
+  "Size": 383488,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 2,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 3,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 4,
+      "name": "DllUnregisterServer"
+    }
+  ]
+}

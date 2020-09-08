@@ -1,0 +1,39 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "3d71487ed30cd48cd7edd03291208dc3",
+  "imphash": "3d71487ed30cd48cd7edd03291208dc3",
+  "InternalName": "mydocs",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "My Documents Folder UI",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 114713,
+  "Size": 109056,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 8,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 9,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 10,
+      "name": "DllInstall"
+    },
+    {
+      "ordinal": 11,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 12,
+      "name": "DllUnregisterServer"
+    },
+    {
+      "ordinal": 7,
+      "name": "PerUserInit"
+    }
+  ]
+}

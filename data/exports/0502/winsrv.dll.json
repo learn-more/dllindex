@@ -1,0 +1,31 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "30784045ea3cb369969cc649656ef1ad",
+  "imphash": "30784045ea3cb369969cc649656ef1ad",
+  "InternalName": "winsrv",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Server DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 397704,
+  "Size": 364544,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "ConServerDllInitialization"
+    },
+    {
+      "ordinal": 2,
+      "name": "UserServerDllInitialization"
+    },
+    {
+      "ordinal": 3,
+      "name": "_UserSoundSentry"
+    },
+    {
+      "ordinal": 4,
+      "name": "_UserTestTokenForInteractive"
+    }
+  ]
+}

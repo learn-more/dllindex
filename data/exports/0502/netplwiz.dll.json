@@ -1,0 +1,71 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "70f0368985b6cf39e4d31a38b73e0e40",
+  "imphash": "70f0368985b6cf39e4d31a38b73e0e40",
+  "InternalName": "netplwiz",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Map Network Drives/Network Places Wizard",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 947176,
+  "Size": 889856,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "AddNetPlaceRunDll"
+    },
+    {
+      "ordinal": 5,
+      "name": "ClearAutoLogon"
+    },
+    {
+      "ordinal": 6,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 7,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 8,
+      "name": "DllInstall"
+    },
+    {
+      "ordinal": 9,
+      "name": "DllMain"
+    },
+    {
+      "ordinal": 10,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 11,
+      "name": "DllUnregisterServer"
+    },
+    {
+      "ordinal": 12,
+      "name": "NetAccessWizard"
+    },
+    {
+      "ordinal": 13,
+      "name": "NetPlacesWizardDoModal"
+    },
+    {
+      "ordinal": 2,
+      "name": "PassportWizardRunDll"
+    },
+    {
+      "ordinal": 3,
+      "name": "PublishRunDll"
+    },
+    {
+      "ordinal": 14,
+      "name": "SHDisconnectNetDrives"
+    },
+    {
+      "ordinal": 4,
+      "name": "UsersRunDll"
+    }
+  ]
+}

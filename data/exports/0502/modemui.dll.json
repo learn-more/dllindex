@@ -1,0 +1,71 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "54034ba76086c5fc86fb4a28d219924c",
+  "imphash": "54034ba76086c5fc86fb4a28d219924c",
+  "InternalName": "MODEMUI",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Modem Properties",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 187742,
+  "Size": 167936,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 9,
+      "name": "CountryRunOnce"
+    },
+    {
+      "ordinal": 12,
+      "name": "InvokeControlPanel"
+    },
+    {
+      "ordinal": 13,
+      "name": "ModemCplDlgProc"
+    },
+    {
+      "ordinal": 14,
+      "name": "ModemPropPagesProvider"
+    },
+    {
+      "ordinal": 15,
+      "name": "QueryModemForCountrySettings"
+    },
+    {
+      "ordinal": 8,
+      "name": "UnimodemDevConfigDialog"
+    },
+    {
+      "ordinal": 10,
+      "name": "UnimodemGetDefaultCommConfig"
+    },
+    {
+      "ordinal": 11,
+      "name": "UnimodemGetExtendedCaps"
+    },
+    {
+      "ordinal": 3,
+      "name": "drvCommConfigDialogA"
+    },
+    {
+      "ordinal": 2,
+      "name": "drvCommConfigDialogW"
+    },
+    {
+      "ordinal": 7,
+      "name": "drvGetDefaultCommConfigA"
+    },
+    {
+      "ordinal": 6,
+      "name": "drvGetDefaultCommConfigW"
+    },
+    {
+      "ordinal": 5,
+      "name": "drvSetDefaultCommConfigA"
+    },
+    {
+      "ordinal": 4,
+      "name": "drvSetDefaultCommConfigW"
+    }
+  ]
+}

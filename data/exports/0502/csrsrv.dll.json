@@ -1,0 +1,155 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "6064c22ca6169569e8c38b35c0ea34a0",
+  "imphash": "6064c22ca6169569e8c38b35c0ea34a0",
+  "InternalName": "CSRSrv.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Client Server Runtime Process",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 76535,
+  "Size": 43008,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CsrAddStaticServerThread"
+    },
+    {
+      "ordinal": 2,
+      "name": "CsrCallServerFromServer"
+    },
+    {
+      "ordinal": 3,
+      "name": "CsrConnectToUser"
+    },
+    {
+      "ordinal": 4,
+      "name": "CsrCreateProcess"
+    },
+    {
+      "ordinal": 5,
+      "name": "CsrCreateRemoteThread"
+    },
+    {
+      "ordinal": 6,
+      "name": "CsrCreateThread"
+    },
+    {
+      "ordinal": 7,
+      "name": "CsrCreateWait"
+    },
+    {
+      "ordinal": 8,
+      "name": "CsrDebugProcess"
+    },
+    {
+      "ordinal": 9,
+      "name": "CsrDebugProcessStop"
+    },
+    {
+      "ordinal": 10,
+      "name": "CsrDereferenceProcess"
+    },
+    {
+      "ordinal": 11,
+      "name": "CsrDereferenceThread"
+    },
+    {
+      "ordinal": 12,
+      "name": "CsrDereferenceWait"
+    },
+    {
+      "ordinal": 13,
+      "name": "CsrDestroyProcess"
+    },
+    {
+      "ordinal": 14,
+      "name": "CsrDestroyThread"
+    },
+    {
+      "ordinal": 15,
+      "name": "CsrExecServerThread"
+    },
+    {
+      "ordinal": 16,
+      "name": "CsrGetProcessLuid"
+    },
+    {
+      "ordinal": 17,
+      "name": "CsrImpersonateClient"
+    },
+    {
+      "ordinal": 18,
+      "name": "CsrLockProcessByClientId"
+    },
+    {
+      "ordinal": 19,
+      "name": "CsrLockThreadByClientId"
+    },
+    {
+      "ordinal": 20,
+      "name": "CsrMoveSatisfiedWait"
+    },
+    {
+      "ordinal": 21,
+      "name": "CsrNotifyWait"
+    },
+    {
+      "ordinal": 22,
+      "name": "CsrPopulateDosDevices"
+    },
+    {
+      "ordinal": 23,
+      "name": "CsrQueryApiPort"
+    },
+    {
+      "ordinal": 24,
+      "name": "CsrReferenceThread"
+    },
+    {
+      "ordinal": 25,
+      "name": "CsrRevertToSelf"
+    },
+    {
+      "ordinal": 26,
+      "name": "CsrServerInitialization"
+    },
+    {
+      "ordinal": 27,
+      "name": "CsrSetBackgroundPriority"
+    },
+    {
+      "ordinal": 28,
+      "name": "CsrSetCallingSpooler"
+    },
+    {
+      "ordinal": 29,
+      "name": "CsrSetForegroundPriority"
+    },
+    {
+      "ordinal": 30,
+      "name": "CsrShutdownProcesses"
+    },
+    {
+      "ordinal": 31,
+      "name": "CsrUnhandledExceptionFilter"
+    },
+    {
+      "ordinal": 32,
+      "name": "CsrUnlockProcess"
+    },
+    {
+      "ordinal": 33,
+      "name": "CsrUnlockThread"
+    },
+    {
+      "ordinal": 34,
+      "name": "CsrValidateMessageBuffer"
+    },
+    {
+      "ordinal": 35,
+      "name": "CsrValidateMessageString"
+    }
+  ]
+}

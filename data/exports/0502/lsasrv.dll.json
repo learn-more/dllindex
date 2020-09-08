@@ -1,0 +1,547 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "8bd82c55f54b86fff4c61a4d9f576e56",
+  "imphash": "8bd82c55f54b86fff4c61a4d9f576e56",
+  "InternalName": "lsasrv.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "LSA Server DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 1041974,
+  "Size": 1008640,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 4,
+      "name": "DsRolerDcAsDc"
+    },
+    {
+      "ordinal": 5,
+      "name": "DsRolerDcAsReplica"
+    },
+    {
+      "ordinal": 6,
+      "name": "DsRolerDemoteDc"
+    },
+    {
+      "ordinal": 7,
+      "name": "DsRolerGetDcOperationProgress"
+    },
+    {
+      "ordinal": 8,
+      "name": "DsRolerGetDcOperationResults"
+    },
+    {
+      "ordinal": 1,
+      "name": "LsaIAddNameToLogonSession"
+    },
+    {
+      "ordinal": 9,
+      "name": "LsaIAdtAuditingEnabledByCategory"
+    },
+    {
+      "ordinal": 10,
+      "name": "LsaIAllocateHeap"
+    },
+    {
+      "ordinal": 11,
+      "name": "LsaIAllocateHeapZero"
+    },
+    {
+      "ordinal": 12,
+      "name": "LsaIAuditAccountLogon"
+    },
+    {
+      "ordinal": 13,
+      "name": "LsaIAuditAccountLogonEx"
+    },
+    {
+      "ordinal": 14,
+      "name": "LsaIAuditKdcEvent"
+    },
+    {
+      "ordinal": 15,
+      "name": "LsaIAuditKerberosLogon"
+    },
+    {
+      "ordinal": 16,
+      "name": "LsaIAuditLogonUsingExplicitCreds"
+    },
+    {
+      "ordinal": 17,
+      "name": "LsaIAuditNotifyPackageLoad"
+    },
+    {
+      "ordinal": 18,
+      "name": "LsaIAuditPasswordAccessEvent"
+    },
+    {
+      "ordinal": 19,
+      "name": "LsaIAuditReplay"
+    },
+    {
+      "ordinal": 20,
+      "name": "LsaIAuditSamEvent"
+    },
+    {
+      "ordinal": 21,
+      "name": "LsaICallPackage"
+    },
+    {
+      "ordinal": 22,
+      "name": "LsaICallPackageEx"
+    },
+    {
+      "ordinal": 23,
+      "name": "LsaICallPackagePassthrough"
+    },
+    {
+      "ordinal": 24,
+      "name": "LsaICancelNotification"
+    },
+    {
+      "ordinal": 25,
+      "name": "LsaIChangeSecretCipherKey"
+    },
+    {
+      "ordinal": 26,
+      "name": "LsaICryptProtectData"
+    },
+    {
+      "ordinal": 27,
+      "name": "LsaICryptUnprotectData"
+    },
+    {
+      "ordinal": 28,
+      "name": "LsaIDereferenceCredHandle"
+    },
+    {
+      "ordinal": 29,
+      "name": "LsaIDsNotifiedObjectChange"
+    },
+    {
+      "ordinal": 30,
+      "name": "LsaIEnumerateSecrets"
+    },
+    {
+      "ordinal": 31,
+      "name": "LsaIEqualLogonProcessName"
+    },
+    {
+      "ordinal": 32,
+      "name": "LsaIFilterNamespace"
+    },
+    {
+      "ordinal": 33,
+      "name": "LsaIFilterSids"
+    },
+    {
+      "ordinal": 34,
+      "name": "LsaIForestTrustFindMatch"
+    },
+    {
+      "ordinal": 35,
+      "name": "LsaIFreeForestTrustInfo"
+    },
+    {
+      "ordinal": 36,
+      "name": "LsaIFreeHeap"
+    },
+    {
+      "ordinal": 37,
+      "name": "LsaIFreeReturnBuffer"
+    },
+    {
+      "ordinal": 38,
+      "name": "LsaIFree_LSAI_PRIVATE_DATA"
+    },
+    {
+      "ordinal": 39,
+      "name": "LsaIFree_LSAI_SECRET_ENUM_BUFFER"
+    },
+    {
+      "ordinal": 40,
+      "name": "LsaIFree_LSAPR_ACCOUNT_ENUM_BUFFER"
+    },
+    {
+      "ordinal": 41,
+      "name": "LsaIFree_LSAPR_CR_CIPHER_VALUE"
+    },
+    {
+      "ordinal": 42,
+      "name": "LsaIFree_LSAPR_POLICY_DOMAIN_INFORMATION"
+    },
+    {
+      "ordinal": 43,
+      "name": "LsaIFree_LSAPR_POLICY_INFORMATION"
+    },
+    {
+      "ordinal": 44,
+      "name": "LsaIFree_LSAPR_PRIVILEGE_ENUM_BUFFER"
+    },
+    {
+      "ordinal": 45,
+      "name": "LsaIFree_LSAPR_PRIVILEGE_SET"
+    },
+    {
+      "ordinal": 46,
+      "name": "LsaIFree_LSAPR_REFERENCED_DOMAIN_LIST"
+    },
+    {
+      "ordinal": 47,
+      "name": "LsaIFree_LSAPR_SR_SECURITY_DESCRIPTOR"
+    },
+    {
+      "ordinal": 48,
+      "name": "LsaIFree_LSAPR_TRANSLATED_NAMES"
+    },
+    {
+      "ordinal": 49,
+      "name": "LsaIFree_LSAPR_TRANSLATED_SIDS"
+    },
+    {
+      "ordinal": 50,
+      "name": "LsaIFree_LSAPR_TRUSTED_DOMAIN_INFO"
+    },
+    {
+      "ordinal": 51,
+      "name": "LsaIFree_LSAPR_TRUSTED_ENUM_BUFFER"
+    },
+    {
+      "ordinal": 52,
+      "name": "LsaIFree_LSAPR_TRUSTED_ENUM_BUFFER_EX"
+    },
+    {
+      "ordinal": 53,
+      "name": "LsaIFree_LSAPR_TRUST_INFORMATION"
+    },
+    {
+      "ordinal": 54,
+      "name": "LsaIFree_LSAPR_UNICODE_STRING"
+    },
+    {
+      "ordinal": 55,
+      "name": "LsaIFree_LSAPR_UNICODE_STRING_BUFFER"
+    },
+    {
+      "ordinal": 56,
+      "name": "LsaIFree_LSAP_SITENAME_INFO"
+    },
+    {
+      "ordinal": 57,
+      "name": "LsaIFree_LSAP_SITE_INFO"
+    },
+    {
+      "ordinal": 58,
+      "name": "LsaIFree_LSAP_SUBNET_INFO"
+    },
+    {
+      "ordinal": 59,
+      "name": "LsaIFree_LSAP_UPN_SUFFIXES"
+    },
+    {
+      "ordinal": 60,
+      "name": "LsaIFree_LSA_FOREST_TRUST_COLLISION_INFORMATION"
+    },
+    {
+      "ordinal": 61,
+      "name": "LsaIFree_LSA_FOREST_TRUST_INFORMATION"
+    },
+    {
+      "ordinal": 62,
+      "name": "LsaIGetBootOption"
+    },
+    {
+      "ordinal": 63,
+      "name": "LsaIGetCallInfo"
+    },
+    {
+      "ordinal": 64,
+      "name": "LsaIGetForestTrustInformation"
+    },
+    {
+      "ordinal": 65,
+      "name": "LsaIGetLogonGuid"
+    },
+    {
+      "ordinal": 2,
+      "name": "LsaIGetNameFromLuid"
+    },
+    {
+      "ordinal": 66,
+      "name": "LsaIGetNbAndDnsDomainNames"
+    },
+    {
+      "ordinal": 67,
+      "name": "LsaIGetSerialNumberPolicy"
+    },
+    {
+      "ordinal": 68,
+      "name": "LsaIGetSiteName"
+    },
+    {
+      "ordinal": 69,
+      "name": "LsaIHealthCheck"
+    },
+    {
+      "ordinal": 70,
+      "name": "LsaIImpersonateClient"
+    },
+    {
+      "ordinal": 71,
+      "name": "LsaIIsDomainWithinForest"
+    },
+    {
+      "ordinal": 72,
+      "name": "LsaIIsDsPaused"
+    },
+    {
+      "ordinal": 73,
+      "name": "LsaIKerberosRegisterTrustNotification"
+    },
+    {
+      "ordinal": 74,
+      "name": "LsaILookupWellKnownName"
+    },
+    {
+      "ordinal": 75,
+      "name": "LsaINoMoreWin2KDomain"
+    },
+    {
+      "ordinal": 76,
+      "name": "LsaINotifyChangeNotification"
+    },
+    {
+      "ordinal": 77,
+      "name": "LsaINotifyGCStatusChange"
+    },
+    {
+      "ordinal": 78,
+      "name": "LsaINotifyNetlogonParametersChangeW"
+    },
+    {
+      "ordinal": 79,
+      "name": "LsaINotifyPasswordChanged"
+    },
+    {
+      "ordinal": 80,
+      "name": "LsaIOpenPolicyTrusted"
+    },
+    {
+      "ordinal": 81,
+      "name": "LsaIQueryForestTrustInfo"
+    },
+    {
+      "ordinal": 82,
+      "name": "LsaIQueryInformationPolicyTrusted"
+    },
+    {
+      "ordinal": 83,
+      "name": "LsaIQuerySiteInfo"
+    },
+    {
+      "ordinal": 84,
+      "name": "LsaIQuerySubnetInfo"
+    },
+    {
+      "ordinal": 85,
+      "name": "LsaIQueryUpnSuffixes"
+    },
+    {
+      "ordinal": 86,
+      "name": "LsaIReferenceCredHandle"
+    },
+    {
+      "ordinal": 87,
+      "name": "LsaIRegisterNotification"
+    },
+    {
+      "ordinal": 88,
+      "name": "LsaIRegisterPolicyChangeNotificationCallback"
+    },
+    {
+      "ordinal": 89,
+      "name": "LsaISafeMode"
+    },
+    {
+      "ordinal": 90,
+      "name": "LsaISamIndicatedDsStarted"
+    },
+    {
+      "ordinal": 91,
+      "name": "LsaISetBootOption"
+    },
+    {
+      "ordinal": 92,
+      "name": "LsaISetClientDnsHostName"
+    },
+    {
+      "ordinal": 93,
+      "name": "LsaISetLogonGuidInLogonSession"
+    },
+    {
+      "ordinal": 3,
+      "name": "LsaISetPackageAttrInLogonSession"
+    },
+    {
+      "ordinal": 94,
+      "name": "LsaISetSerialNumberPolicy"
+    },
+    {
+      "ordinal": 95,
+      "name": "LsaISetTimesSecret"
+    },
+    {
+      "ordinal": 96,
+      "name": "LsaISetTokenDacl"
+    },
+    {
+      "ordinal": 97,
+      "name": "LsaISetupWasRun"
+    },
+    {
+      "ordinal": 98,
+      "name": "LsaIUnregisterAllPolicyChangeNotificationCallback"
+    },
+    {
+      "ordinal": 99,
+      "name": "LsaIUnregisterPolicyChangeNotificationCallback"
+    },
+    {
+      "ordinal": 100,
+      "name": "LsaIUpdateForestTrustInformation"
+    },
+    {
+      "ordinal": 101,
+      "name": "LsaIWriteAuditEvent"
+    },
+    {
+      "ordinal": 102,
+      "name": "LsapAuOpenSam"
+    },
+    {
+      "ordinal": 103,
+      "name": "LsapCheckBootMode"
+    },
+    {
+      "ordinal": 104,
+      "name": "LsapDsDebugInitialize"
+    },
+    {
+      "ordinal": 105,
+      "name": "LsapDsInitializeDsStateInfo"
+    },
+    {
+      "ordinal": 106,
+      "name": "LsapDsInitializePromoteInterface"
+    },
+    {
+      "ordinal": 107,
+      "name": "LsapInitLsa"
+    },
+    {
+      "ordinal": 108,
+      "name": "LsarClose"
+    },
+    {
+      "ordinal": 109,
+      "name": "LsarCreateSecret"
+    },
+    {
+      "ordinal": 110,
+      "name": "LsarDelete"
+    },
+    {
+      "ordinal": 111,
+      "name": "LsarEnumerateAccounts"
+    },
+    {
+      "ordinal": 112,
+      "name": "LsarEnumeratePrivilegesAccount"
+    },
+    {
+      "ordinal": 113,
+      "name": "LsarEnumerateTrustedDomains"
+    },
+    {
+      "ordinal": 114,
+      "name": "LsarEnumerateTrustedDomainsEx"
+    },
+    {
+      "ordinal": 115,
+      "name": "LsarGetSystemAccessAccount"
+    },
+    {
+      "ordinal": 116,
+      "name": "LsarLookupPrivilegeName"
+    },
+    {
+      "ordinal": 118,
+      "name": "LsarLookupSids"
+    },
+    {
+      "ordinal": 117,
+      "name": "LsarLookupSids2"
+    },
+    {
+      "ordinal": 119,
+      "name": "LsarOpenAccount"
+    },
+    {
+      "ordinal": 120,
+      "name": "LsarOpenPolicy"
+    },
+    {
+      "ordinal": 121,
+      "name": "LsarOpenSecret"
+    },
+    {
+      "ordinal": 122,
+      "name": "LsarOpenTrustedDomain"
+    },
+    {
+      "ordinal": 123,
+      "name": "LsarQueryDomainInformationPolicy"
+    },
+    {
+      "ordinal": 124,
+      "name": "LsarQueryInfoTrustedDomain"
+    },
+    {
+      "ordinal": 125,
+      "name": "LsarQueryInformationPolicy"
+    },
+    {
+      "ordinal": 126,
+      "name": "LsarQuerySecret"
+    },
+    {
+      "ordinal": 127,
+      "name": "LsarQuerySecurityObject"
+    },
+    {
+      "ordinal": 128,
+      "name": "LsarQueryTrustedDomainInfoByName"
+    },
+    {
+      "ordinal": 129,
+      "name": "LsarSetInformationPolicy"
+    },
+    {
+      "ordinal": 130,
+      "name": "LsarSetSecret"
+    },
+    {
+      "ordinal": 131,
+      "name": "LsarSetSecurityObject"
+    },
+    {
+      "ordinal": 132,
+      "name": "LsarSetTrustedDomainInfoByName"
+    },
+    {
+      "ordinal": 133,
+      "name": "ServiceInit"
+    }
+  ]
+}

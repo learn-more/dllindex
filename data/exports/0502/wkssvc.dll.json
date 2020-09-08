@@ -1,0 +1,23 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "62c96912b86ece7c11a785945ae6ba0d",
+  "imphash": "62c96912b86ece7c11a785945ae6ba0d",
+  "InternalName": "WKSSVC.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Workstation Service DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 167523,
+  "Size": 157696,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "ServiceMain"
+    },
+    {
+      "ordinal": 2,
+      "name": "SvchostPushServiceGlobals"
+    }
+  ]
+}

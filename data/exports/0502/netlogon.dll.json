@@ -1,0 +1,115 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "00fc5410f39b25e9c52fba7028cc1d43",
+  "imphash": "00fc5410f39b25e9c52fba7028cc1d43",
+  "InternalName": "NetLogon.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Net Logon Services DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 465873,
+  "Size": 434176,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DsrGetDcNameEx2"
+    },
+    {
+      "ordinal": 2,
+      "name": "I_DsGetDcCache"
+    },
+    {
+      "ordinal": 3,
+      "name": "I_NetLogonAddressToSiteName"
+    },
+    {
+      "ordinal": 4,
+      "name": "I_NetLogonAppendChangeLog"
+    },
+    {
+      "ordinal": 5,
+      "name": "I_NetLogonCloseChangeLog"
+    },
+    {
+      "ordinal": 6,
+      "name": "I_NetLogonFree"
+    },
+    {
+      "ordinal": 7,
+      "name": "I_NetLogonGetAuthDataEx"
+    },
+    {
+      "ordinal": 8,
+      "name": "I_NetLogonGetIpAddresses"
+    },
+    {
+      "ordinal": 9,
+      "name": "I_NetLogonGetSerialNumber"
+    },
+    {
+      "ordinal": 10,
+      "name": "I_NetLogonLdapLookupEx"
+    },
+    {
+      "ordinal": 11,
+      "name": "I_NetLogonMixedDomain"
+    },
+    {
+      "ordinal": 12,
+      "name": "I_NetLogonNewChangeLog"
+    },
+    {
+      "ordinal": 13,
+      "name": "I_NetLogonReadChangeLog"
+    },
+    {
+      "ordinal": 14,
+      "name": "I_NetLogonSendToSamOnPdc"
+    },
+    {
+      "ordinal": 15,
+      "name": "I_NetLogonSetServiceBits"
+    },
+    {
+      "ordinal": 16,
+      "name": "I_NetNotifyDelta"
+    },
+    {
+      "ordinal": 17,
+      "name": "I_NetNotifyDsChange"
+    },
+    {
+      "ordinal": 18,
+      "name": "I_NetNotifyMachineAccount"
+    },
+    {
+      "ordinal": 19,
+      "name": "I_NetNotifyNetlogonDllHandle"
+    },
+    {
+      "ordinal": 20,
+      "name": "I_NetNotifyNtdsDsaDeletion"
+    },
+    {
+      "ordinal": 21,
+      "name": "I_NetNotifyRole"
+    },
+    {
+      "ordinal": 22,
+      "name": "I_NetNotifyTrustedDomain"
+    },
+    {
+      "ordinal": 23,
+      "name": "InitSecurityInterfaceW"
+    },
+    {
+      "ordinal": 24,
+      "name": "NetILogonSamLogon"
+    },
+    {
+      "ordinal": 25,
+      "name": "NlNetlogonMain"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "59221d733e69169eb62636d586407926",
+  "imphash": "59221d733e69169eb62636d586407926",
+  "InternalName": "Compressed (zipped) Folders Shell Extension",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Compressed (zipped) Folders",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 403777,
+  "Size": 359424,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 2,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 3,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 4,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 5,
+      "name": "DllUnregisterServer"
+    },
+    {
+      "ordinal": 6,
+      "name": "RegisterSendto"
+    },
+    {
+      "ordinal": 1,
+      "name": "RouteTheCall"
+    }
+  ]
+}

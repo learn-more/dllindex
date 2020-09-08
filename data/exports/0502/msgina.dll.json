@@ -1,0 +1,215 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "b09205460f53cb747a4e87c408cbde4a",
+  "imphash": "b09205460f53cb747a4e87c408cbde4a",
+  "InternalName": "msgina",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows NT Logon GINA DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 1285212,
+  "Size": 1249280,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 29,
+      "name": "ShellShutdownDialog"
+    },
+    {
+      "ordinal": 30,
+      "name": "WlxActivateUserShell"
+    },
+    {
+      "ordinal": 31,
+      "name": "WlxDisconnectNotify"
+    },
+    {
+      "ordinal": 32,
+      "name": "WlxDisplayLockedNotice"
+    },
+    {
+      "ordinal": 33,
+      "name": "WlxDisplaySASNotice"
+    },
+    {
+      "ordinal": 34,
+      "name": "WlxDisplayStatusMessage"
+    },
+    {
+      "ordinal": 35,
+      "name": "WlxGetConsoleSwitchCredentials"
+    },
+    {
+      "ordinal": 36,
+      "name": "WlxGetStatusMessage"
+    },
+    {
+      "ordinal": 37,
+      "name": "WlxInitialize"
+    },
+    {
+      "ordinal": 38,
+      "name": "WlxIsLockOk"
+    },
+    {
+      "ordinal": 39,
+      "name": "WlxIsLogoffOk"
+    },
+    {
+      "ordinal": 40,
+      "name": "WlxLoggedOnSAS"
+    },
+    {
+      "ordinal": 41,
+      "name": "WlxLoggedOutSAS"
+    },
+    {
+      "ordinal": 42,
+      "name": "WlxLogoff"
+    },
+    {
+      "ordinal": 43,
+      "name": "WlxNegotiate"
+    },
+    {
+      "ordinal": 44,
+      "name": "WlxNetworkProviderLoad"
+    },
+    {
+      "ordinal": 45,
+      "name": "WlxReconnectNotify"
+    },
+    {
+      "ordinal": 46,
+      "name": "WlxRemoveStatusMessage"
+    },
+    {
+      "ordinal": 47,
+      "name": "WlxScreenSaverNotify"
+    },
+    {
+      "ordinal": 48,
+      "name": "WlxShutdown"
+    },
+    {
+      "ordinal": 49,
+      "name": "WlxStartApplication"
+    },
+    {
+      "ordinal": 50,
+      "name": "WlxWkstaLockedSAS"
+    },
+    {
+      "ordinal": 1,
+      "name": null
+    },
+    {
+      "ordinal": 2,
+      "name": null
+    },
+    {
+      "ordinal": 3,
+      "name": null
+    },
+    {
+      "ordinal": 4,
+      "name": null
+    },
+    {
+      "ordinal": 5,
+      "name": null
+    },
+    {
+      "ordinal": 6,
+      "name": null
+    },
+    {
+      "ordinal": 7,
+      "name": null
+    },
+    {
+      "ordinal": 8,
+      "name": null
+    },
+    {
+      "ordinal": 9,
+      "name": null
+    },
+    {
+      "ordinal": 10,
+      "name": null
+    },
+    {
+      "ordinal": 11,
+      "name": null
+    },
+    {
+      "ordinal": 12,
+      "name": null
+    },
+    {
+      "ordinal": 13,
+      "name": null
+    },
+    {
+      "ordinal": 14,
+      "name": null
+    },
+    {
+      "ordinal": 15,
+      "name": null
+    },
+    {
+      "ordinal": 16,
+      "name": null
+    },
+    {
+      "ordinal": 17,
+      "name": null
+    },
+    {
+      "ordinal": 18,
+      "name": null
+    },
+    {
+      "ordinal": 19,
+      "name": null
+    },
+    {
+      "ordinal": 20,
+      "name": null
+    },
+    {
+      "ordinal": 21,
+      "name": null
+    },
+    {
+      "ordinal": 22,
+      "name": null
+    },
+    {
+      "ordinal": 23,
+      "name": null
+    },
+    {
+      "ordinal": 24,
+      "name": null
+    },
+    {
+      "ordinal": 25,
+      "name": null
+    },
+    {
+      "ordinal": 26,
+      "name": null
+    },
+    {
+      "ordinal": 27,
+      "name": null
+    },
+    {
+      "ordinal": 28,
+      "name": null
+    }
+  ]
+}

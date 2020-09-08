@@ -1,0 +1,23 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "0f24b651b14deda4cd937c15b54d8337",
+  "imphash": "0f24b651b14deda4cd937c15b54d8337",
+  "InternalName": "batt.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Battery Class Installer",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 75017,
+  "Size": 9728,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "BatteryClassCoInstaller"
+    },
+    {
+      "ordinal": 2,
+      "name": "BatteryClassInstall"
+    }
+  ]
+}

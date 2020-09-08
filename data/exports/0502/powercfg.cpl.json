@@ -1,0 +1,19 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "5041aa1eb55d506c9aa756bafae9fe37",
+  "imphash": "5041aa1eb55d506c9aa756bafae9fe37",
+  "InternalName": "POWERCFG",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Power Management Configuration Control Panel Applet",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 158357,
+  "Size": 120320,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CPlApplet"
+    }
+  ]
+}

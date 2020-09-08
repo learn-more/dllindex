@@ -1,0 +1,99 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "0b7dcb064bc05e05472e43eb790de66e",
+  "imphash": "0b7dcb064bc05e05472e43eb790de66e",
+  "InternalName": "w32time.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Time Service",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 300627,
+  "Size": 295424,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 3,
+      "name": "DllInstall"
+    },
+    {
+      "ordinal": 4,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 5,
+      "name": "DllUnregisterServer"
+    },
+    {
+      "ordinal": 6,
+      "name": "SvchostEntry_W32Time"
+    },
+    {
+      "ordinal": 7,
+      "name": "SvchostPushServiceGlobals"
+    },
+    {
+      "ordinal": 8,
+      "name": "TimeProvClose"
+    },
+    {
+      "ordinal": 9,
+      "name": "TimeProvCommand"
+    },
+    {
+      "ordinal": 10,
+      "name": "TimeProvOpen"
+    },
+    {
+      "ordinal": 11,
+      "name": "W32TimeBufferFree"
+    },
+    {
+      "ordinal": 12,
+      "name": "W32TimeDcPromo"
+    },
+    {
+      "ordinal": 13,
+      "name": "W32TimeGetNetlogonServiceBits"
+    },
+    {
+      "ordinal": 14,
+      "name": "W32TimeQueryConfig"
+    },
+    {
+      "ordinal": 15,
+      "name": "W32TimeQueryHardwareProviderStatus"
+    },
+    {
+      "ordinal": 16,
+      "name": "W32TimeQueryNTPProviderStatus"
+    },
+    {
+      "ordinal": 17,
+      "name": "W32TimeSetConfig"
+    },
+    {
+      "ordinal": 18,
+      "name": "W32TimeSyncNow"
+    },
+    {
+      "ordinal": 19,
+      "name": "W32TimeVerifyJoinConfig"
+    },
+    {
+      "ordinal": 20,
+      "name": "W32TimeVerifyUnjoinConfig"
+    },
+    {
+      "ordinal": 21,
+      "name": "W32TmServiceMain"
+    },
+    {
+      "ordinal": 1,
+      "name": "fnW32TmRegisterServiceCtrlHandlerEx"
+    },
+    {
+      "ordinal": 2,
+      "name": "fnW32TmSetServiceStatus"
+    }
+  ]
+}

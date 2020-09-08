@@ -1,0 +1,23 @@
+{
+  "Version": "5.7.3790.3959-I386",
+  "md5": "ee0e938658c28ae47ee9b8f80ad77a99",
+  "imphash": "ee0e938658c28ae47ee9b8f80ad77a99",
+  "InternalName": "wuauserv.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Update AutoUpdate Service",
+  "FileVersion": "5.7.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.7.3790.3959",
+  "PeChecksum": 70688,
+  "Size": 28160,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 2,
+      "name": "DllMain"
+    },
+    {
+      "ordinal": 1,
+      "name": "ServiceMain"
+    }
+  ]
+}

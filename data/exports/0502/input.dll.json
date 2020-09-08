@@ -1,0 +1,35 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "c378c09acf9fc97eeb21b409c2bbb46c",
+  "imphash": "c378c09acf9fc97eeb21b409c2bbb46c",
+  "InternalName": "INPUT",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Text Input DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 173747,
+  "Size": 131584,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 100,
+      "name": "CPlApplet"
+    },
+    {
+      "ordinal": 101,
+      "name": null
+    },
+    {
+      "ordinal": 102,
+      "name": null
+    },
+    {
+      "ordinal": 103,
+      "name": null
+    },
+    {
+      "ordinal": 104,
+      "name": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "fb79cc67fe94ede8d331d570ebef8f5a",
+  "imphash": "fb79cc67fe94ede8d331d570ebef8f5a",
+  "InternalName": "ShImgVw.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Picture and Fax Viewer",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 547195,
+  "Size": 537600,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 9,
+      "name": "ConvertDIBSECTIONToThumbnail"
+    },
+    {
+      "ordinal": 10,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 11,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 12,
+      "name": "DllInstall"
+    },
+    {
+      "ordinal": 13,
+      "name": "DllRegisterServer"
+    },
+    {
+      "ordinal": 14,
+      "name": "DllUnregisterServer"
+    },
+    {
+      "ordinal": 1,
+      "name": "ImageView_COMServer"
+    },
+    {
+      "ordinal": 2,
+      "name": "ImageView_Fullscreen"
+    },
+    {
+      "ordinal": 3,
+      "name": "ImageView_FullscreenA"
+    },
+    {
+      "ordinal": 4,
+      "name": "ImageView_FullscreenW"
+    },
+    {
+      "ordinal": 5,
+      "name": "ImageView_PrintTo"
+    },
+    {
+      "ordinal": 6,
+      "name": "ImageView_PrintToA"
+    },
+    {
+      "ordinal": 7,
+      "name": "ImageView_PrintToW"
+    },
+    {
+      "ordinal": 8,
+      "name": "imageview_fullscreenW"
+    }
+  ]
+}

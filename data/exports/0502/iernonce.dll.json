@@ -1,0 +1,23 @@
+{
+  "Version": "6.00.3790.3959-I386",
+  "md5": "0c68ebad6dfa009bde223b0d53bd10af",
+  "imphash": "0c68ebad6dfa009bde223b0d53bd10af",
+  "InternalName": "IERnOnce",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Extended RunOnce processing with UI",
+  "FileVersion": "6.00.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "6.00.3790.3959",
+  "PeChecksum": 71380,
+  "Size": 51200,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "InitCallback"
+    },
+    {
+      "ordinal": 2,
+      "name": "RunOnceExProcess"
+    }
+  ]
+}

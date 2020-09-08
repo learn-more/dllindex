@@ -1,0 +1,19 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "677478d7b9c993d569b460bcdeb36de4",
+  "imphash": "677478d7b9c993d569b460bcdeb36de4",
+  "InternalName": "timedate.cpl",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Time Date Control Panel Applet",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 122557,
+  "Size": 95232,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CPlApplet"
+    }
+  ]
+}

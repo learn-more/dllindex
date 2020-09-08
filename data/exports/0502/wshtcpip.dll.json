@@ -1,0 +1,79 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "adcdb8aced447211cf75353ecf2e7fd0",
+  "imphash": "adcdb8aced447211cf75353ecf2e7fd0",
+  "InternalName": "wshtcpip.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Sockets Helper DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 24618,
+  "Size": 20480,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "WSHAddressToString"
+    },
+    {
+      "ordinal": 2,
+      "name": "WSHEnumProtocols"
+    },
+    {
+      "ordinal": 3,
+      "name": "WSHGetBroadcastSockaddr"
+    },
+    {
+      "ordinal": 4,
+      "name": "WSHGetProviderGuid"
+    },
+    {
+      "ordinal": 5,
+      "name": "WSHGetSockaddrType"
+    },
+    {
+      "ordinal": 6,
+      "name": "WSHGetSocketInformation"
+    },
+    {
+      "ordinal": 7,
+      "name": "WSHGetWSAProtocolInfo"
+    },
+    {
+      "ordinal": 8,
+      "name": "WSHGetWildcardSockaddr"
+    },
+    {
+      "ordinal": 9,
+      "name": "WSHGetWinsockMapping"
+    },
+    {
+      "ordinal": 10,
+      "name": "WSHIoctl"
+    },
+    {
+      "ordinal": 11,
+      "name": "WSHJoinLeaf"
+    },
+    {
+      "ordinal": 12,
+      "name": "WSHNotify"
+    },
+    {
+      "ordinal": 14,
+      "name": "WSHOpenSocket"
+    },
+    {
+      "ordinal": 13,
+      "name": "WSHOpenSocket2"
+    },
+    {
+      "ordinal": 15,
+      "name": "WSHSetSocketInformation"
+    },
+    {
+      "ordinal": 16,
+      "name": "WSHStringToAddress"
+    }
+  ]
+}

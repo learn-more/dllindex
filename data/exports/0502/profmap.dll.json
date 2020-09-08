@@ -1,0 +1,39 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "457fc96f9d79131bf7ebe24fe5149e18",
+  "imphash": "457fc96f9d79131bf7ebe24fe5149e18",
+  "InternalName": "userenv",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Userenv",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 78458,
+  "Size": 38400,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DllMain"
+    },
+    {
+      "ordinal": 2,
+      "name": "InitializeProfileMappingApi"
+    },
+    {
+      "ordinal": 3,
+      "name": "RemapAndMoveUserA"
+    },
+    {
+      "ordinal": 4,
+      "name": "RemapAndMoveUserW"
+    },
+    {
+      "ordinal": 5,
+      "name": "RemapUserProfileA"
+    },
+    {
+      "ordinal": 6,
+      "name": "RemapUserProfileW"
+    }
+  ]
+}

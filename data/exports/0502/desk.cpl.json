@@ -1,0 +1,67 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "6074201c74bf17af349e5fcc5f768e1e",
+  "imphash": "6074201c74bf17af349e5fcc5f768e1e",
+  "InternalName": "DESK",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Desktop Control Panel",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 198826,
+  "Size": 142848,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CPlApplet"
+    },
+    {
+      "ordinal": 2,
+      "name": "DeskSetCurrentScheme"
+    },
+    {
+      "ordinal": 3,
+      "name": "DeskSetCurrentSchemeA"
+    },
+    {
+      "ordinal": 4,
+      "name": "DeskSetCurrentSchemeW"
+    },
+    {
+      "ordinal": 5,
+      "name": "DisplayClassInstaller"
+    },
+    {
+      "ordinal": 12,
+      "name": "DisplayOcSetupProc"
+    },
+    {
+      "ordinal": 6,
+      "name": "DisplaySaveSettings"
+    },
+    {
+      "ordinal": 7,
+      "name": "InstallScreenSaver"
+    },
+    {
+      "ordinal": 8,
+      "name": "InstallScreenSaverA"
+    },
+    {
+      "ordinal": 9,
+      "name": "InstallScreenSaverW"
+    },
+    {
+      "ordinal": 10,
+      "name": "MonitorClassInstaller"
+    },
+    {
+      "ordinal": 13,
+      "name": "UpdateCharsetChanges"
+    },
+    {
+      "ordinal": 11,
+      "name": "UpdateUIfontsDueToDPIchange"
+    }
+  ]
+}

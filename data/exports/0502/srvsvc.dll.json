@@ -1,0 +1,23 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "fe5a9be3f3667ec911309096990f499b",
+  "imphash": "fe5a9be3f3667ec911309096990f499b",
+  "InternalName": "SRVSVC.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Server Service DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 150387,
+  "Size": 90112,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "ServiceMain"
+    },
+    {
+      "ordinal": 2,
+      "name": "SvchostPushServiceGlobals"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "0ae6627ee2b4a12a5c04631767a3bbef",
+  "imphash": "0ae6627ee2b4a12a5c04631767a3bbef",
+  "InternalName": "wshirda.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows Sockets Helper DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 71361,
+  "Size": 8704,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "WSHEnumProtocols"
+    },
+    {
+      "ordinal": 2,
+      "name": "WSHGetProviderGuid"
+    },
+    {
+      "ordinal": 3,
+      "name": "WSHGetSockaddrType"
+    },
+    {
+      "ordinal": 4,
+      "name": "WSHGetSocketInformation"
+    },
+    {
+      "ordinal": 5,
+      "name": "WSHGetWSAProtocolInfo"
+    },
+    {
+      "ordinal": 6,
+      "name": "WSHGetWildcardSockaddr"
+    },
+    {
+      "ordinal": 7,
+      "name": "WSHGetWinsockMapping"
+    },
+    {
+      "ordinal": 8,
+      "name": "WSHIoctl"
+    },
+    {
+      "ordinal": 9,
+      "name": "WSHNotify"
+    },
+    {
+      "ordinal": 10,
+      "name": "WSHOpenSocket"
+    },
+    {
+      "ordinal": 11,
+      "name": "WSHSetSocketInformation"
+    }
+  ]
+}

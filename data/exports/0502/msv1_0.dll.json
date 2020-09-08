@@ -1,0 +1,79 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "2d7cdd3bfb1625e7fe11e3a496a5b8c9",
+  "imphash": "2d7cdd3bfb1625e7fe11e3a496a5b8c9",
+  "InternalName": "MSV1_0.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Microsoft Authentication Package v1.0",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 247637,
+  "Size": 195584,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 4,
+      "name": "LsaApCallPackage"
+    },
+    {
+      "ordinal": 5,
+      "name": "LsaApCallPackagePassthrough"
+    },
+    {
+      "ordinal": 6,
+      "name": "LsaApCallPackageUntrusted"
+    },
+    {
+      "ordinal": 7,
+      "name": "LsaApInitializePackage"
+    },
+    {
+      "ordinal": 8,
+      "name": "LsaApLogonTerminated"
+    },
+    {
+      "ordinal": 9,
+      "name": "LsaApLogonUserEx2"
+    },
+    {
+      "ordinal": 10,
+      "name": "Msv1_0ExportSubAuthenticationRoutine"
+    },
+    {
+      "ordinal": 11,
+      "name": "Msv1_0SubAuthenticationPresent"
+    },
+    {
+      "ordinal": 12,
+      "name": "MsvGetLogonAttemptCount"
+    },
+    {
+      "ordinal": 13,
+      "name": "MsvSamLogoff"
+    },
+    {
+      "ordinal": 14,
+      "name": "MsvSamValidate"
+    },
+    {
+      "ordinal": 15,
+      "name": "MsvValidateTarget"
+    },
+    {
+      "ordinal": 1,
+      "name": "SpInitialize"
+    },
+    {
+      "ordinal": 32,
+      "name": "SpInstanceInit"
+    },
+    {
+      "ordinal": 2,
+      "name": "SpLsaModeInitialize"
+    },
+    {
+      "ordinal": 3,
+      "name": "SpUserModeInitialize"
+    }
+  ]
+}

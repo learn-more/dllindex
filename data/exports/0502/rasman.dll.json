@@ -1,0 +1,663 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "901fdbf187c05c00c388c5f013ffee1e",
+  "imphash": "901fdbf187c05c00c388c5f013ffee1e",
+  "InternalName": "Rasman.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Remote Access Connection Manager",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 124829,
+  "Size": 68608,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DwRasGetHostByName"
+    },
+    {
+      "ordinal": 2,
+      "name": "IsRasmanProcess"
+    },
+    {
+      "ordinal": 3,
+      "name": "RasActivateRoute"
+    },
+    {
+      "ordinal": 4,
+      "name": "RasActivateRouteEx"
+    },
+    {
+      "ordinal": 5,
+      "name": "RasAddConnectionPort"
+    },
+    {
+      "ordinal": 6,
+      "name": "RasAddNotification"
+    },
+    {
+      "ordinal": 7,
+      "name": "RasAllocateRoute"
+    },
+    {
+      "ordinal": 8,
+      "name": "RasBundleClearStatistics"
+    },
+    {
+      "ordinal": 9,
+      "name": "RasBundleClearStatisticsEx"
+    },
+    {
+      "ordinal": 10,
+      "name": "RasBundleGetPort"
+    },
+    {
+      "ordinal": 11,
+      "name": "RasBundleGetStatistics"
+    },
+    {
+      "ordinal": 12,
+      "name": "RasBundleGetStatisticsEx"
+    },
+    {
+      "ordinal": 13,
+      "name": "RasCompressionGetInfo"
+    },
+    {
+      "ordinal": 14,
+      "name": "RasCompressionSetInfo"
+    },
+    {
+      "ordinal": 15,
+      "name": "RasConnectionEnum"
+    },
+    {
+      "ordinal": 16,
+      "name": "RasConnectionGetStatistics"
+    },
+    {
+      "ordinal": 17,
+      "name": "RasCreateConnection"
+    },
+    {
+      "ordinal": 18,
+      "name": "RasDeAllocateRoute"
+    },
+    {
+      "ordinal": 19,
+      "name": "RasDestroyConnection"
+    },
+    {
+      "ordinal": 20,
+      "name": "RasDeviceConnect"
+    },
+    {
+      "ordinal": 21,
+      "name": "RasDeviceEnum"
+    },
+    {
+      "ordinal": 22,
+      "name": "RasDeviceGetInfo"
+    },
+    {
+      "ordinal": 23,
+      "name": "RasDeviceSetInfo"
+    },
+    {
+      "ordinal": 24,
+      "name": "RasDoIke"
+    },
+    {
+      "ordinal": 25,
+      "name": "RasEnableIpSec"
+    },
+    {
+      "ordinal": 26,
+      "name": "RasEnumConnectionPorts"
+    },
+    {
+      "ordinal": 27,
+      "name": "RasEnumLanNets"
+    },
+    {
+      "ordinal": 28,
+      "name": "RasFindPrerequisiteEntry"
+    },
+    {
+      "ordinal": 29,
+      "name": "RasFreeBuffer"
+    },
+    {
+      "ordinal": 30,
+      "name": "RasGetBandwidthUtilization"
+    },
+    {
+      "ordinal": 31,
+      "name": "RasGetBestInterface"
+    },
+    {
+      "ordinal": 32,
+      "name": "RasGetBuffer"
+    },
+    {
+      "ordinal": 33,
+      "name": "RasGetCalledIdInfo"
+    },
+    {
+      "ordinal": 34,
+      "name": "RasGetConnectInfo"
+    },
+    {
+      "ordinal": 35,
+      "name": "RasGetConnectionParams"
+    },
+    {
+      "ordinal": 36,
+      "name": "RasGetConnectionUserData"
+    },
+    {
+      "ordinal": 37,
+      "name": "RasGetCustomScriptDll"
+    },
+    {
+      "ordinal": 38,
+      "name": "RasGetDevConfig"
+    },
+    {
+      "ordinal": 39,
+      "name": "RasGetDevConfigEx"
+    },
+    {
+      "ordinal": 40,
+      "name": "RasGetDeviceConfigInfo"
+    },
+    {
+      "ordinal": 41,
+      "name": "RasGetDeviceName"
+    },
+    {
+      "ordinal": 42,
+      "name": "RasGetDeviceNameW"
+    },
+    {
+      "ordinal": 43,
+      "name": "RasGetDialParams"
+    },
+    {
+      "ordinal": 44,
+      "name": "RasGetEapUserInfo"
+    },
+    {
+      "ordinal": 45,
+      "name": "RasGetFramingCapabilities"
+    },
+    {
+      "ordinal": 46,
+      "name": "RasGetHConnFromEntry"
+    },
+    {
+      "ordinal": 47,
+      "name": "RasGetHportFromConnection"
+    },
+    {
+      "ordinal": 48,
+      "name": "RasGetInfo"
+    },
+    {
+      "ordinal": 49,
+      "name": "RasGetInfoEx"
+    },
+    {
+      "ordinal": 50,
+      "name": "RasGetKey"
+    },
+    {
+      "ordinal": 51,
+      "name": "RasGetNdiswanDriverCaps"
+    },
+    {
+      "ordinal": 52,
+      "name": "RasGetNumPortOpen"
+    },
+    {
+      "ordinal": 53,
+      "name": "RasGetPortUserData"
+    },
+    {
+      "ordinal": 54,
+      "name": "RasGetProtocolInfo"
+    },
+    {
+      "ordinal": 55,
+      "name": "RasGetTimeSinceLastActivity"
+    },
+    {
+      "ordinal": 56,
+      "name": "RasGetUnicodeDeviceName"
+    },
+    {
+      "ordinal": 57,
+      "name": "RasGetUserCredentials"
+    },
+    {
+      "ordinal": 58,
+      "name": "RasInitialize"
+    },
+    {
+      "ordinal": 59,
+      "name": "RasInitializeNoWait"
+    },
+    {
+      "ordinal": 60,
+      "name": "RasIsIpSecEnabled"
+    },
+    {
+      "ordinal": 61,
+      "name": "RasIsPulseDial"
+    },
+    {
+      "ordinal": 62,
+      "name": "RasIsTrustedCustomDll"
+    },
+    {
+      "ordinal": 63,
+      "name": "RasLinkGetStatistics"
+    },
+    {
+      "ordinal": 64,
+      "name": "RasPnPControl"
+    },
+    {
+      "ordinal": 65,
+      "name": "RasPortBundle"
+    },
+    {
+      "ordinal": 66,
+      "name": "RasPortCancelReceive"
+    },
+    {
+      "ordinal": 67,
+      "name": "RasPortClearStatistics"
+    },
+    {
+      "ordinal": 68,
+      "name": "RasPortClose"
+    },
+    {
+      "ordinal": 69,
+      "name": "RasPortConnectComplete"
+    },
+    {
+      "ordinal": 70,
+      "name": "RasPortDisconnect"
+    },
+    {
+      "ordinal": 71,
+      "name": "RasPortEnum"
+    },
+    {
+      "ordinal": 72,
+      "name": "RasPortEnumProtocols"
+    },
+    {
+      "ordinal": 73,
+      "name": "RasPortFree"
+    },
+    {
+      "ordinal": 74,
+      "name": "RasPortGetBundle"
+    },
+    {
+      "ordinal": 75,
+      "name": "RasPortGetBundledPort"
+    },
+    {
+      "ordinal": 76,
+      "name": "RasPortGetFramingEx"
+    },
+    {
+      "ordinal": 77,
+      "name": "RasPortGetInfo"
+    },
+    {
+      "ordinal": 78,
+      "name": "RasPortGetProtocolCompression"
+    },
+    {
+      "ordinal": 79,
+      "name": "RasPortGetStatistics"
+    },
+    {
+      "ordinal": 80,
+      "name": "RasPortGetStatisticsEx"
+    },
+    {
+      "ordinal": 81,
+      "name": "RasPortListen"
+    },
+    {
+      "ordinal": 82,
+      "name": "RasPortOpen"
+    },
+    {
+      "ordinal": 83,
+      "name": "RasPortOpenEx"
+    },
+    {
+      "ordinal": 84,
+      "name": "RasPortReceive"
+    },
+    {
+      "ordinal": 85,
+      "name": "RasPortReceiveEx"
+    },
+    {
+      "ordinal": 86,
+      "name": "RasPortRegisterSlip"
+    },
+    {
+      "ordinal": 87,
+      "name": "RasPortReserve"
+    },
+    {
+      "ordinal": 88,
+      "name": "RasPortRetrieveUserData"
+    },
+    {
+      "ordinal": 89,
+      "name": "RasPortSend"
+    },
+    {
+      "ordinal": 90,
+      "name": "RasPortSetFraming"
+    },
+    {
+      "ordinal": 91,
+      "name": "RasPortSetFramingEx"
+    },
+    {
+      "ordinal": 92,
+      "name": "RasPortSetInfo"
+    },
+    {
+      "ordinal": 93,
+      "name": "RasPortSetProtocolCompression"
+    },
+    {
+      "ordinal": 94,
+      "name": "RasPortStoreUserData"
+    },
+    {
+      "ordinal": 95,
+      "name": "RasPppCallback"
+    },
+    {
+      "ordinal": 96,
+      "name": "RasPppChangePassword"
+    },
+    {
+      "ordinal": 97,
+      "name": "RasPppGetEapInfo"
+    },
+    {
+      "ordinal": 98,
+      "name": "RasPppGetInfo"
+    },
+    {
+      "ordinal": 99,
+      "name": "RasPppRetry"
+    },
+    {
+      "ordinal": 100,
+      "name": "RasPppSetEapInfo"
+    },
+    {
+      "ordinal": 101,
+      "name": "RasPppStart"
+    },
+    {
+      "ordinal": 102,
+      "name": "RasPppStarted"
+    },
+    {
+      "ordinal": 103,
+      "name": "RasPppStop"
+    },
+    {
+      "ordinal": 104,
+      "name": "RasProtocolEnum"
+    },
+    {
+      "ordinal": 105,
+      "name": "RasRPCBind"
+    },
+    {
+      "ordinal": 106,
+      "name": "RasRefConnection"
+    },
+    {
+      "ordinal": 107,
+      "name": "RasReferenceCustomCount"
+    },
+    {
+      "ordinal": 108,
+      "name": "RasReferenceRasman"
+    },
+    {
+      "ordinal": 109,
+      "name": "RasRegisterPnPEvent"
+    },
+    {
+      "ordinal": 110,
+      "name": "RasRegisterPnPHandler"
+    },
+    {
+      "ordinal": 111,
+      "name": "RasRegisterRedialCallback"
+    },
+    {
+      "ordinal": 112,
+      "name": "RasRequestNotification"
+    },
+    {
+      "ordinal": 113,
+      "name": "RasRpcConnect"
+    },
+    {
+      "ordinal": 114,
+      "name": "RasRpcConnectServer"
+    },
+    {
+      "ordinal": 115,
+      "name": "RasRpcDeleteEntry"
+    },
+    {
+      "ordinal": 116,
+      "name": "RasRpcDeviceEnum"
+    },
+    {
+      "ordinal": 117,
+      "name": "RasRpcDisconnect"
+    },
+    {
+      "ordinal": 118,
+      "name": "RasRpcDisconnectServer"
+    },
+    {
+      "ordinal": 119,
+      "name": "RasRpcEnumConnections"
+    },
+    {
+      "ordinal": 120,
+      "name": "RasRpcGetCountryInfo"
+    },
+    {
+      "ordinal": 121,
+      "name": "RasRpcGetDevConfig"
+    },
+    {
+      "ordinal": 122,
+      "name": "RasRpcGetErrorString"
+    },
+    {
+      "ordinal": 123,
+      "name": "RasRpcGetInstalledProtocols"
+    },
+    {
+      "ordinal": 124,
+      "name": "RasRpcGetInstalledProtocolsEx"
+    },
+    {
+      "ordinal": 125,
+      "name": "RasRpcGetSystemDirectory"
+    },
+    {
+      "ordinal": 126,
+      "name": "RasRpcGetUserPreferences"
+    },
+    {
+      "ordinal": 127,
+      "name": "RasRpcGetVersion"
+    },
+    {
+      "ordinal": 128,
+      "name": "RasRpcPortEnum"
+    },
+    {
+      "ordinal": 129,
+      "name": "RasRpcPortGetInfo"
+    },
+    {
+      "ordinal": 130,
+      "name": "RasRpcRemoteGetSystemDirectory"
+    },
+    {
+      "ordinal": 131,
+      "name": "RasRpcRemoteGetUserPreferences"
+    },
+    {
+      "ordinal": 132,
+      "name": "RasRpcRemoteRasDeleteEntry"
+    },
+    {
+      "ordinal": 133,
+      "name": "RasRpcRemoteSetUserPreferences"
+    },
+    {
+      "ordinal": 134,
+      "name": "RasRpcSetUserPreferences"
+    },
+    {
+      "ordinal": 135,
+      "name": "RasRpcUnloadDll"
+    },
+    {
+      "ordinal": 136,
+      "name": "RasSecurityDialogGetInfo"
+    },
+    {
+      "ordinal": 137,
+      "name": "RasSecurityDialogReceive"
+    },
+    {
+      "ordinal": 138,
+      "name": "RasSecurityDialogSend"
+    },
+    {
+      "ordinal": 139,
+      "name": "RasSendCreds"
+    },
+    {
+      "ordinal": 140,
+      "name": "RasSendNotification"
+    },
+    {
+      "ordinal": 141,
+      "name": "RasSendPppMessageToRasman"
+    },
+    {
+      "ordinal": 142,
+      "name": "RasServerPortClose"
+    },
+    {
+      "ordinal": 143,
+      "name": "RasSetAddressDisable"
+    },
+    {
+      "ordinal": 144,
+      "name": "RasSetBapPolicy"
+    },
+    {
+      "ordinal": 145,
+      "name": "RasSetCachedCredentials"
+    },
+    {
+      "ordinal": 146,
+      "name": "RasSetCalledIdInfo"
+    },
+    {
+      "ordinal": 147,
+      "name": "RasSetCommSettings"
+    },
+    {
+      "ordinal": 148,
+      "name": "RasSetConnectionParams"
+    },
+    {
+      "ordinal": 149,
+      "name": "RasSetConnectionUserData"
+    },
+    {
+      "ordinal": 150,
+      "name": "RasSetDevConfig"
+    },
+    {
+      "ordinal": 151,
+      "name": "RasSetDeviceConfigInfo"
+    },
+    {
+      "ordinal": 152,
+      "name": "RasSetDialParams"
+    },
+    {
+      "ordinal": 153,
+      "name": "RasSetEapLogonInfo"
+    },
+    {
+      "ordinal": 154,
+      "name": "RasSetEapUserInfo"
+    },
+    {
+      "ordinal": 155,
+      "name": "RasSetIoCompletionPort"
+    },
+    {
+      "ordinal": 156,
+      "name": "RasSetKey"
+    },
+    {
+      "ordinal": 157,
+      "name": "RasSetPortUserData"
+    },
+    {
+      "ordinal": 158,
+      "name": "RasSetRasdialInfo"
+    },
+    {
+      "ordinal": 159,
+      "name": "RasSetRouterUsage"
+    },
+    {
+      "ordinal": 160,
+      "name": "RasSignalNewConnection"
+    },
+    {
+      "ordinal": 161,
+      "name": "RasStartRasAutoIfRequired"
+    },
+    {
+      "ordinal": 162,
+      "name": "RasmanUninitialize"
+    }
+  ]
+}

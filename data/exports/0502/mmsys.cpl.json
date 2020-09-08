@@ -1,0 +1,83 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "877d6dc9646a6cbbfa259ff9d18c42bc",
+  "imphash": "877d6dc9646a6cbbfa259ff9d18c42bc",
+  "InternalName": "drivers",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Control Panel Drivers Applet",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 665848,
+  "Size": 660480,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 3,
+      "name": "CPlApplet"
+    },
+    {
+      "ordinal": 7,
+      "name": "DllCanUnloadNow"
+    },
+    {
+      "ordinal": 8,
+      "name": "DllGetClassObject"
+    },
+    {
+      "ordinal": 14,
+      "name": "MediaClassInstaller"
+    },
+    {
+      "ordinal": 15,
+      "name": "MediaPropPageProvider"
+    },
+    {
+      "ordinal": 16,
+      "name": "Multichannel"
+    },
+    {
+      "ordinal": 6,
+      "name": "ShowAudioPropertySheet"
+    },
+    {
+      "ordinal": 9,
+      "name": "ShowDriverSettingsAfterFork"
+    },
+    {
+      "ordinal": 11,
+      "name": "ShowDriverSettingsAfterForkA"
+    },
+    {
+      "ordinal": 10,
+      "name": "ShowDriverSettingsAfterForkW"
+    },
+    {
+      "ordinal": 17,
+      "name": "ShowFullControlPanel"
+    },
+    {
+      "ordinal": 5,
+      "name": "ShowMMCPLPropertySheet"
+    },
+    {
+      "ordinal": 18,
+      "name": "ShowMMCPLPropertySheetW"
+    },
+    {
+      "ordinal": 19,
+      "name": "mmWOW64MediaClassInstallerA"
+    },
+    {
+      "ordinal": 4,
+      "name": "mmseRunOnce"
+    },
+    {
+      "ordinal": 13,
+      "name": "mmseRunOnceA"
+    },
+    {
+      "ordinal": 12,
+      "name": "mmseRunOnceW"
+    }
+  ]
+}

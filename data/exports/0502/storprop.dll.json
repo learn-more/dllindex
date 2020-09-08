@@ -1,0 +1,55 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "25959e9b515f8025a4d4175999938b07",
+  "imphash": "25959e9b515f8025a4d4175999938b07",
+  "InternalName": "StorProp",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Property Pages for Storage Devices",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 68912,
+  "Size": 50688,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CdromDisableDigitalPlayback"
+    },
+    {
+      "ordinal": 2,
+      "name": "CdromEnableDigitalPlayback"
+    },
+    {
+      "ordinal": 3,
+      "name": "CdromIsDigitalPlaybackEnabled"
+    },
+    {
+      "ordinal": 4,
+      "name": "CdromKnownGoodDigitalPlayback"
+    },
+    {
+      "ordinal": 5,
+      "name": "DiskClassInstaller"
+    },
+    {
+      "ordinal": 6,
+      "name": "DvdClassInstaller"
+    },
+    {
+      "ordinal": 7,
+      "name": "DvdLauncher"
+    },
+    {
+      "ordinal": 8,
+      "name": "DvdPropPageProvider"
+    },
+    {
+      "ordinal": 9,
+      "name": "IdePropPageProvider"
+    },
+    {
+      "ordinal": 10,
+      "name": "VolumePropPageProvider"
+    }
+  ]
+}

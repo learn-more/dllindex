@@ -1,0 +1,39 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "a203d849e13d41631b02a48c1daa26f0",
+  "imphash": "a203d849e13d41631b02a48c1daa26f0",
+  "InternalName": "rasadhlp.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Remote Access AutoDial Helper",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 28453,
+  "Size": 7680,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "AcsHlpAttemptConnection"
+    },
+    {
+      "ordinal": 2,
+      "name": "AcsHlpNbConnection"
+    },
+    {
+      "ordinal": 3,
+      "name": "AcsHlpNoteNewConnection"
+    },
+    {
+      "ordinal": 4,
+      "name": "WSAttemptAutodialAddr"
+    },
+    {
+      "ordinal": 5,
+      "name": "WSAttemptAutodialName"
+    },
+    {
+      "ordinal": 6,
+      "name": "WSNoteSuccessfulHostentLookup"
+    }
+  ]
+}

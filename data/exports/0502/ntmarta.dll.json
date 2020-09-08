@@ -1,0 +1,187 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "703e3fd88846feadd3f6de9d30462c75",
+  "imphash": "703e3fd88846feadd3f6de9d30462c75",
+  "InternalName": "ntmarta.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Windows NT MARTA provider",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 179588,
+  "Size": 145408,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 11,
+      "name": "AccConvertAccessMaskToActrlAccess"
+    },
+    {
+      "ordinal": 12,
+      "name": "AccConvertAccessToSD"
+    },
+    {
+      "ordinal": 13,
+      "name": "AccConvertAccessToSecurityDescriptor"
+    },
+    {
+      "ordinal": 14,
+      "name": "AccConvertAclToAccess"
+    },
+    {
+      "ordinal": 15,
+      "name": "AccConvertSDToAccess"
+    },
+    {
+      "ordinal": 1,
+      "name": "AccFreeIndexArray"
+    },
+    {
+      "ordinal": 16,
+      "name": "AccGetAccessForTrustee"
+    },
+    {
+      "ordinal": 17,
+      "name": "AccGetExplicitEntries"
+    },
+    {
+      "ordinal": 2,
+      "name": "AccGetInheritanceSource"
+    },
+    {
+      "ordinal": 18,
+      "name": "AccLookupAccountName"
+    },
+    {
+      "ordinal": 19,
+      "name": "AccLookupAccountSid"
+    },
+    {
+      "ordinal": 20,
+      "name": "AccLookupAccountTrustee"
+    },
+    {
+      "ordinal": 21,
+      "name": "AccProvCancelOperation"
+    },
+    {
+      "ordinal": 22,
+      "name": "AccProvGetAccessInfoPerObjectType"
+    },
+    {
+      "ordinal": 23,
+      "name": "AccProvGetAllRights"
+    },
+    {
+      "ordinal": 24,
+      "name": "AccProvGetCapabilities"
+    },
+    {
+      "ordinal": 25,
+      "name": "AccProvGetOperationResults"
+    },
+    {
+      "ordinal": 26,
+      "name": "AccProvGetTrusteesAccess"
+    },
+    {
+      "ordinal": 27,
+      "name": "AccProvGrantAccessRights"
+    },
+    {
+      "ordinal": 28,
+      "name": "AccProvHandleGetAccessInfoPerObjectType"
+    },
+    {
+      "ordinal": 29,
+      "name": "AccProvHandleGetAllRights"
+    },
+    {
+      "ordinal": 30,
+      "name": "AccProvHandleGetTrusteesAccess"
+    },
+    {
+      "ordinal": 3,
+      "name": "AccProvHandleGrantAccessRights"
+    },
+    {
+      "ordinal": 31,
+      "name": "AccProvHandleIsAccessAudited"
+    },
+    {
+      "ordinal": 32,
+      "name": "AccProvHandleIsObjectAccessible"
+    },
+    {
+      "ordinal": 33,
+      "name": "AccProvHandleRevokeAccessRights"
+    },
+    {
+      "ordinal": 34,
+      "name": "AccProvHandleRevokeAuditRights"
+    },
+    {
+      "ordinal": 35,
+      "name": "AccProvHandleSetAccessRights"
+    },
+    {
+      "ordinal": 36,
+      "name": "AccProvIsAccessAudited"
+    },
+    {
+      "ordinal": 37,
+      "name": "AccProvIsObjectAccessible"
+    },
+    {
+      "ordinal": 38,
+      "name": "AccProvRevokeAccessRights"
+    },
+    {
+      "ordinal": 39,
+      "name": "AccProvRevokeAuditRights"
+    },
+    {
+      "ordinal": 40,
+      "name": "AccProvSetAccessRights"
+    },
+    {
+      "ordinal": 4,
+      "name": "AccRewriteGetExplicitEntriesFromAcl"
+    },
+    {
+      "ordinal": 5,
+      "name": "AccRewriteGetHandleRights"
+    },
+    {
+      "ordinal": 6,
+      "name": "AccRewriteGetNamedRights"
+    },
+    {
+      "ordinal": 7,
+      "name": "AccRewriteSetEntriesInAcl"
+    },
+    {
+      "ordinal": 8,
+      "name": "AccRewriteSetHandleRights"
+    },
+    {
+      "ordinal": 9,
+      "name": "AccRewriteSetNamedRights"
+    },
+    {
+      "ordinal": 41,
+      "name": "AccSetEntriesInAList"
+    },
+    {
+      "ordinal": 10,
+      "name": "AccTreeResetNamedSecurityInfo"
+    },
+    {
+      "ordinal": 42,
+      "name": "EventGuidToName"
+    },
+    {
+      "ordinal": 43,
+      "name": "EventNameFree"
+    }
+  ]
+}

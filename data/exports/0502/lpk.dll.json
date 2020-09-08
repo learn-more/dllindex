@@ -1,0 +1,59 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "46a479544ae159de71bb62fdb45338fb",
+  "imphash": "46a479544ae159de71bb62fdb45338fb",
+  "InternalName": "LanguagePack",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Language Pack",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 45279,
+  "Size": 34304,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 3,
+      "name": "LpkDllInitialize"
+    },
+    {
+      "ordinal": 4,
+      "name": "LpkDrawTextEx"
+    },
+    {
+      "ordinal": 5,
+      "name": "LpkEditControl"
+    },
+    {
+      "ordinal": 6,
+      "name": "LpkExtTextOut"
+    },
+    {
+      "ordinal": 7,
+      "name": "LpkGetCharacterPlacement"
+    },
+    {
+      "ordinal": 8,
+      "name": "LpkGetTextExtentExPoint"
+    },
+    {
+      "ordinal": 1,
+      "name": "LpkInitialize"
+    },
+    {
+      "ordinal": 9,
+      "name": "LpkPSMTextOut"
+    },
+    {
+      "ordinal": 2,
+      "name": "LpkTabbedTextOut"
+    },
+    {
+      "ordinal": 10,
+      "name": "LpkUseGDIWidthCache"
+    },
+    {
+      "ordinal": 11,
+      "name": "ftsWordBreak"
+    }
+  ]
+}

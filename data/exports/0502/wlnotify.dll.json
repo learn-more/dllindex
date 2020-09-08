@@ -1,0 +1,135 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "86f27c6183c7321e8a209495c6f9b714",
+  "imphash": "86f27c6183c7321e8a209495c6f9b714",
+  "InternalName": "WlNotify.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Common DLL to receive Winlogon notifications",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 205660,
+  "Size": 155136,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "RegisterTicketExpiredNotificationEvent"
+    },
+    {
+      "ordinal": 2,
+      "name": "SCardResumeCertProp"
+    },
+    {
+      "ordinal": 3,
+      "name": "SCardStartCertProp"
+    },
+    {
+      "ordinal": 4,
+      "name": "SCardStopCertProp"
+    },
+    {
+      "ordinal": 5,
+      "name": "SCardSuspendCertProp"
+    },
+    {
+      "ordinal": 6,
+      "name": "SchedEventLogOff"
+    },
+    {
+      "ordinal": 7,
+      "name": "SchedStartShell"
+    },
+    {
+      "ordinal": 10,
+      "name": "SensDisconnectEvent"
+    },
+    {
+      "ordinal": 11,
+      "name": "SensLockEvent"
+    },
+    {
+      "ordinal": 12,
+      "name": "SensLogoffEvent"
+    },
+    {
+      "ordinal": 13,
+      "name": "SensLogonEvent"
+    },
+    {
+      "ordinal": 14,
+      "name": "SensPostShellEvent"
+    },
+    {
+      "ordinal": 15,
+      "name": "SensReconnectEvent"
+    },
+    {
+      "ordinal": 16,
+      "name": "SensShutdownEvent"
+    },
+    {
+      "ordinal": 17,
+      "name": "SensStartScreenSaverEvent"
+    },
+    {
+      "ordinal": 18,
+      "name": "SensStartShellEvent"
+    },
+    {
+      "ordinal": 19,
+      "name": "SensStartupEvent"
+    },
+    {
+      "ordinal": 20,
+      "name": "SensStopScreenSaverEvent"
+    },
+    {
+      "ordinal": 21,
+      "name": "SensUnlockEvent"
+    },
+    {
+      "ordinal": 8,
+      "name": "ShowNotificationBalloonW"
+    },
+    {
+      "ordinal": 22,
+      "name": "TSEventDisconnect"
+    },
+    {
+      "ordinal": 23,
+      "name": "TSEventLogoff"
+    },
+    {
+      "ordinal": 24,
+      "name": "TSEventLogon"
+    },
+    {
+      "ordinal": 25,
+      "name": "TSEventPostShell"
+    },
+    {
+      "ordinal": 26,
+      "name": "TSEventReconnect"
+    },
+    {
+      "ordinal": 27,
+      "name": "TSEventShutdown"
+    },
+    {
+      "ordinal": 28,
+      "name": "TSEventStartShell"
+    },
+    {
+      "ordinal": 29,
+      "name": "TSEventStartup"
+    },
+    {
+      "ordinal": 30,
+      "name": "TermsrvCreateTempDir"
+    },
+    {
+      "ordinal": 9,
+      "name": "UnregisterTicketExpiredNotificationEvent"
+    }
+  ]
+}

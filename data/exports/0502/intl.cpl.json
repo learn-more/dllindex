@@ -1,0 +1,19 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "1ccc3c737707421bfeffccbb941678bc",
+  "imphash": "1ccc3c737707421bfeffccbb941678bc",
+  "InternalName": "CONTROL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Control Panel DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 136793,
+  "Size": 135168,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CPlApplet"
+    }
+  ]
+}

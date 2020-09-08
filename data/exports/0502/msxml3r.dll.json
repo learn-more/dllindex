@@ -1,0 +1,14 @@
+{
+  "Version": "8.20.8730.1-I386",
+  "md5": "77f4edccdfb1061672b6e735868e348e",
+  "imphash": "77f4edccdfb1061672b6e735868e348e",
+  "InternalName": "MSXML3R.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "XML Resources",
+  "FileVersion": "8.20.8730.1",
+  "ProductVersion": "8.20.8730.1",
+  "PeChecksum": 84194,
+  "Size": 44032,
+  "Machine": "I386",
+  "exports": []
+}

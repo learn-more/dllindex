@@ -1,0 +1,47 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "15d01b895c062927d95580c8a02277af",
+  "imphash": "15d01b895c062927d95580c8a02277af",
+  "InternalName": "sysdm.cpl",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "System Applet for the Control Panel",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 369068,
+  "Size": 308736,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "CPlApplet"
+    },
+    {
+      "ordinal": 2,
+      "name": "EnableExecuteProtectionSupportW"
+    },
+    {
+      "ordinal": 3,
+      "name": "ModifyExecuteProtectionSupportW"
+    },
+    {
+      "ordinal": 4,
+      "name": "NoExecuteAddFileOptOutList"
+    },
+    {
+      "ordinal": 5,
+      "name": "NoExecuteAddFileOptOutListW"
+    },
+    {
+      "ordinal": 6,
+      "name": "NoExecuteProcessExceptionW"
+    },
+    {
+      "ordinal": 7,
+      "name": "NoExecuteRemoveFileOptOutList"
+    },
+    {
+      "ordinal": 8,
+      "name": "NoExecuteRemoveFileOptOutListW"
+    }
+  ]
+}

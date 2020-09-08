@@ -1,0 +1,663 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "cc70fc107b3ab72529cd82d5ca3554ec",
+  "imphash": "cc70fc107b3ab72529cd82d5ca3554ec",
+  "InternalName": "samsrv.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "SAM Server DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 651158,
+  "Size": 628736,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "SamIAccountRestrictions"
+    },
+    {
+      "ordinal": 2,
+      "name": "SamIAddDSNameToAlias"
+    },
+    {
+      "ordinal": 3,
+      "name": "SamIAddDSNameToGroup"
+    },
+    {
+      "ordinal": 4,
+      "name": "SamIAmIGC"
+    },
+    {
+      "ordinal": 6,
+      "name": "SamIChangePasswordForeignUser"
+    },
+    {
+      "ordinal": 5,
+      "name": "SamIChangePasswordForeignUser2"
+    },
+    {
+      "ordinal": 7,
+      "name": "SamIConnect"
+    },
+    {
+      "ordinal": 8,
+      "name": "SamICreateAccountByRid"
+    },
+    {
+      "ordinal": 9,
+      "name": "SamIDemote"
+    },
+    {
+      "ordinal": 10,
+      "name": "SamIDemoteUndo"
+    },
+    {
+      "ordinal": 11,
+      "name": "SamIDoFSMORoleChange"
+    },
+    {
+      "ordinal": 12,
+      "name": "SamIDsCreateObjectInDomain"
+    },
+    {
+      "ordinal": 13,
+      "name": "SamIDsSetObjectInformation"
+    },
+    {
+      "ordinal": 14,
+      "name": "SamIEnumerateAccountRids"
+    },
+    {
+      "ordinal": 15,
+      "name": "SamIEnumerateInterdomainTrustAccountsForUpgrade"
+    },
+    {
+      "ordinal": 16,
+      "name": "SamIFloatingSingleMasterOpEx"
+    },
+    {
+      "ordinal": 17,
+      "name": "SamIFreeSidAndAttributesList"
+    },
+    {
+      "ordinal": 18,
+      "name": "SamIFreeSidArray"
+    },
+    {
+      "ordinal": 19,
+      "name": "SamIFreeVoid"
+    },
+    {
+      "ordinal": 20,
+      "name": "SamIFree_SAMPR_ALIAS_INFO_BUFFER"
+    },
+    {
+      "ordinal": 21,
+      "name": "SamIFree_SAMPR_DISPLAY_INFO_BUFFER"
+    },
+    {
+      "ordinal": 22,
+      "name": "SamIFree_SAMPR_DOMAIN_INFO_BUFFER"
+    },
+    {
+      "ordinal": 23,
+      "name": "SamIFree_SAMPR_ENUMERATION_BUFFER"
+    },
+    {
+      "ordinal": 24,
+      "name": "SamIFree_SAMPR_GET_GROUPS_BUFFER"
+    },
+    {
+      "ordinal": 25,
+      "name": "SamIFree_SAMPR_GET_MEMBERS_BUFFER"
+    },
+    {
+      "ordinal": 26,
+      "name": "SamIFree_SAMPR_GROUP_INFO_BUFFER"
+    },
+    {
+      "ordinal": 27,
+      "name": "SamIFree_SAMPR_PSID_ARRAY"
+    },
+    {
+      "ordinal": 28,
+      "name": "SamIFree_SAMPR_RETURNED_USTRING_ARRAY"
+    },
+    {
+      "ordinal": 29,
+      "name": "SamIFree_SAMPR_SR_SECURITY_DESCRIPTOR"
+    },
+    {
+      "ordinal": 30,
+      "name": "SamIFree_SAMPR_ULONG_ARRAY"
+    },
+    {
+      "ordinal": 31,
+      "name": "SamIFree_SAMPR_USER_INFO_BUFFER"
+    },
+    {
+      "ordinal": 32,
+      "name": "SamIFree_UserInternal6Information"
+    },
+    {
+      "ordinal": 33,
+      "name": "SamIGCLookupNames"
+    },
+    {
+      "ordinal": 34,
+      "name": "SamIGCLookupSids"
+    },
+    {
+      "ordinal": 35,
+      "name": "SamIGetAliasMembership"
+    },
+    {
+      "ordinal": 36,
+      "name": "SamIGetBootKeyInformation"
+    },
+    {
+      "ordinal": 37,
+      "name": "SamIGetDefaultAdministratorName"
+    },
+    {
+      "ordinal": 38,
+      "name": "SamIGetDefaultComputersContainer"
+    },
+    {
+      "ordinal": 39,
+      "name": "SamIGetFixedAttributes"
+    },
+    {
+      "ordinal": 40,
+      "name": "SamIGetInterdomainTrustAccountPasswordsForUpgrade"
+    },
+    {
+      "ordinal": 41,
+      "name": "SamIGetPrivateData"
+    },
+    {
+      "ordinal": 42,
+      "name": "SamIGetResourceGroupMembershipsTransitive"
+    },
+    {
+      "ordinal": 43,
+      "name": "SamIGetSerialNumberDomain"
+    },
+    {
+      "ordinal": 45,
+      "name": "SamIGetUserLogonInformation"
+    },
+    {
+      "ordinal": 44,
+      "name": "SamIGetUserLogonInformation2"
+    },
+    {
+      "ordinal": 46,
+      "name": "SamIGetUserLogonInformationEx"
+    },
+    {
+      "ordinal": 47,
+      "name": "SamIHandleObjectUpdate"
+    },
+    {
+      "ordinal": 48,
+      "name": "SamIImpersonateNullSession"
+    },
+    {
+      "ordinal": 49,
+      "name": "SamIIncrementPerformanceCounter"
+    },
+    {
+      "ordinal": 50,
+      "name": "SamIInitialize"
+    },
+    {
+      "ordinal": 51,
+      "name": "SamIIsAttributeProtected"
+    },
+    {
+      "ordinal": 52,
+      "name": "SamIIsDownlevelDcUpgrade"
+    },
+    {
+      "ordinal": 53,
+      "name": "SamIIsExtendedSidMode"
+    },
+    {
+      "ordinal": 54,
+      "name": "SamIIsRebootAfterPromotion"
+    },
+    {
+      "ordinal": 55,
+      "name": "SamIIsSetupInProgress"
+    },
+    {
+      "ordinal": 56,
+      "name": "SamILoadDownlevelDatabase"
+    },
+    {
+      "ordinal": 57,
+      "name": "SamILoopbackConnect"
+    },
+    {
+      "ordinal": 59,
+      "name": "SamIMixedDomain"
+    },
+    {
+      "ordinal": 58,
+      "name": "SamIMixedDomain2"
+    },
+    {
+      "ordinal": 60,
+      "name": "SamINT4UpgradeInProgress"
+    },
+    {
+      "ordinal": 61,
+      "name": "SamINetLogonPing"
+    },
+    {
+      "ordinal": 62,
+      "name": "SamINotifyDelta"
+    },
+    {
+      "ordinal": 63,
+      "name": "SamINotifyRoleChange"
+    },
+    {
+      "ordinal": 64,
+      "name": "SamINotifyServerDelta"
+    },
+    {
+      "ordinal": 65,
+      "name": "SamIOpenAccount"
+    },
+    {
+      "ordinal": 66,
+      "name": "SamIOpenUserByAlternateId"
+    },
+    {
+      "ordinal": 67,
+      "name": "SamIPromote"
+    },
+    {
+      "ordinal": 68,
+      "name": "SamIPromoteUndo"
+    },
+    {
+      "ordinal": 70,
+      "name": "SamIQueryServerRole"
+    },
+    {
+      "ordinal": 69,
+      "name": "SamIQueryServerRole2"
+    },
+    {
+      "ordinal": 71,
+      "name": "SamIRemoveDSNameFromAlias"
+    },
+    {
+      "ordinal": 72,
+      "name": "SamIRemoveDSNameFromGroup"
+    },
+    {
+      "ordinal": 73,
+      "name": "SamIReplaceDownlevelDatabase"
+    },
+    {
+      "ordinal": 74,
+      "name": "SamIResetBadPwdCountOnPdc"
+    },
+    {
+      "ordinal": 75,
+      "name": "SamIRetrievePrimaryCredentials"
+    },
+    {
+      "ordinal": 76,
+      "name": "SamIRevertNullSession"
+    },
+    {
+      "ordinal": 77,
+      "name": "SamISameSite"
+    },
+    {
+      "ordinal": 78,
+      "name": "SamISetAuditingInformation"
+    },
+    {
+      "ordinal": 79,
+      "name": "SamISetMixedDomainFlag"
+    },
+    {
+      "ordinal": 81,
+      "name": "SamISetPasswordForeignUser"
+    },
+    {
+      "ordinal": 80,
+      "name": "SamISetPasswordForeignUser2"
+    },
+    {
+      "ordinal": 82,
+      "name": "SamISetPasswordInfoOnPdc"
+    },
+    {
+      "ordinal": 83,
+      "name": "SamISetPrivateData"
+    },
+    {
+      "ordinal": 84,
+      "name": "SamISetSerialNumberDomain"
+    },
+    {
+      "ordinal": 85,
+      "name": "SamIStorePrimaryCredentials"
+    },
+    {
+      "ordinal": 86,
+      "name": "SamIUPNFromUserHandle"
+    },
+    {
+      "ordinal": 87,
+      "name": "SamIUnLoadDownlevelDatabase"
+    },
+    {
+      "ordinal": 88,
+      "name": "SamIUpdateLogonStatistics"
+    },
+    {
+      "ordinal": 89,
+      "name": "SampAbortSingleLoopbackTask"
+    },
+    {
+      "ordinal": 90,
+      "name": "SampAccountControlToFlags"
+    },
+    {
+      "ordinal": 91,
+      "name": "SampAcquireSamLockExclusive"
+    },
+    {
+      "ordinal": 92,
+      "name": "SampAcquireWriteLock"
+    },
+    {
+      "ordinal": 93,
+      "name": "SampCommitBufferedWrites"
+    },
+    {
+      "ordinal": 94,
+      "name": "SampConvertNt4SdToNt5Sd"
+    },
+    {
+      "ordinal": 95,
+      "name": "SampDsChangePasswordUser"
+    },
+    {
+      "ordinal": 96,
+      "name": "SampFlagsToAccountControl"
+    },
+    {
+      "ordinal": 97,
+      "name": "SampGetDefaultSecurityDescriptorForClass"
+    },
+    {
+      "ordinal": 98,
+      "name": "SampGetSerialNumberDomain2"
+    },
+    {
+      "ordinal": 99,
+      "name": "SampInitializeRegistry"
+    },
+    {
+      "ordinal": 100,
+      "name": "SampInitializeSdConversion"
+    },
+    {
+      "ordinal": 101,
+      "name": "SampInvalidateDomainCache"
+    },
+    {
+      "ordinal": 102,
+      "name": "SampInvalidateRidRange"
+    },
+    {
+      "ordinal": 103,
+      "name": "SampIsAuditingEnabled"
+    },
+    {
+      "ordinal": 104,
+      "name": "SampNetLogonNotificationRequired"
+    },
+    {
+      "ordinal": 105,
+      "name": "SampNotifyAuditChange"
+    },
+    {
+      "ordinal": 106,
+      "name": "SampNotifyReplicatedInChange"
+    },
+    {
+      "ordinal": 107,
+      "name": "SampProcessSingleLoopbackTask"
+    },
+    {
+      "ordinal": 108,
+      "name": "SampReleaseSamLockExclusive"
+    },
+    {
+      "ordinal": 109,
+      "name": "SampReleaseWriteLock"
+    },
+    {
+      "ordinal": 110,
+      "name": "SampRtlConvertUlongToUnicodeString"
+    },
+    {
+      "ordinal": 111,
+      "name": "SampSetSerialNumberDomain2"
+    },
+    {
+      "ordinal": 112,
+      "name": "SampUsingDsData"
+    },
+    {
+      "ordinal": 113,
+      "name": "SampWriteGroupType"
+    },
+    {
+      "ordinal": 114,
+      "name": "SamrAddMemberToAlias"
+    },
+    {
+      "ordinal": 115,
+      "name": "SamrAddMemberToGroup"
+    },
+    {
+      "ordinal": 116,
+      "name": "SamrAddMultipleMembersToAlias"
+    },
+    {
+      "ordinal": 117,
+      "name": "SamrChangePasswordUser"
+    },
+    {
+      "ordinal": 118,
+      "name": "SamrCloseHandle"
+    },
+    {
+      "ordinal": 119,
+      "name": "SamrCreateAliasInDomain"
+    },
+    {
+      "ordinal": 120,
+      "name": "SamrCreateGroupInDomain"
+    },
+    {
+      "ordinal": 121,
+      "name": "SamrCreateUser2InDomain"
+    },
+    {
+      "ordinal": 122,
+      "name": "SamrCreateUserInDomain"
+    },
+    {
+      "ordinal": 123,
+      "name": "SamrDeleteAlias"
+    },
+    {
+      "ordinal": 124,
+      "name": "SamrDeleteGroup"
+    },
+    {
+      "ordinal": 125,
+      "name": "SamrDeleteUser"
+    },
+    {
+      "ordinal": 126,
+      "name": "SamrEnumerateAliasesInDomain"
+    },
+    {
+      "ordinal": 127,
+      "name": "SamrEnumerateDomainsInSamServer"
+    },
+    {
+      "ordinal": 128,
+      "name": "SamrEnumerateGroupsInDomain"
+    },
+    {
+      "ordinal": 129,
+      "name": "SamrEnumerateUsersInDomain"
+    },
+    {
+      "ordinal": 130,
+      "name": "SamrGetAliasMembership"
+    },
+    {
+      "ordinal": 131,
+      "name": "SamrGetGroupsForUser"
+    },
+    {
+      "ordinal": 132,
+      "name": "SamrGetMembersInAlias"
+    },
+    {
+      "ordinal": 133,
+      "name": "SamrGetMembersInGroup"
+    },
+    {
+      "ordinal": 134,
+      "name": "SamrGetUserDomainPasswordInformation"
+    },
+    {
+      "ordinal": 135,
+      "name": "SamrLookupDomainInSamServer"
+    },
+    {
+      "ordinal": 136,
+      "name": "SamrLookupIdsInDomain"
+    },
+    {
+      "ordinal": 137,
+      "name": "SamrLookupNamesInDomain"
+    },
+    {
+      "ordinal": 138,
+      "name": "SamrOpenAlias"
+    },
+    {
+      "ordinal": 139,
+      "name": "SamrOpenDomain"
+    },
+    {
+      "ordinal": 140,
+      "name": "SamrOpenGroup"
+    },
+    {
+      "ordinal": 141,
+      "name": "SamrOpenUser"
+    },
+    {
+      "ordinal": 142,
+      "name": "SamrQueryDisplayInformation"
+    },
+    {
+      "ordinal": 143,
+      "name": "SamrQueryInformationAlias"
+    },
+    {
+      "ordinal": 144,
+      "name": "SamrQueryInformationDomain"
+    },
+    {
+      "ordinal": 145,
+      "name": "SamrQueryInformationGroup"
+    },
+    {
+      "ordinal": 146,
+      "name": "SamrQueryInformationUser"
+    },
+    {
+      "ordinal": 147,
+      "name": "SamrQuerySecurityObject"
+    },
+    {
+      "ordinal": 148,
+      "name": "SamrRemoveMemberFromAlias"
+    },
+    {
+      "ordinal": 149,
+      "name": "SamrRemoveMemberFromForeignDomain"
+    },
+    {
+      "ordinal": 150,
+      "name": "SamrRemoveMemberFromGroup"
+    },
+    {
+      "ordinal": 151,
+      "name": "SamrRemoveMultipleMembersFromAlias"
+    },
+    {
+      "ordinal": 152,
+      "name": "SamrRidToSid"
+    },
+    {
+      "ordinal": 153,
+      "name": "SamrSetInformationAlias"
+    },
+    {
+      "ordinal": 154,
+      "name": "SamrSetInformationDomain"
+    },
+    {
+      "ordinal": 155,
+      "name": "SamrSetInformationGroup"
+    },
+    {
+      "ordinal": 156,
+      "name": "SamrSetInformationUser"
+    },
+    {
+      "ordinal": 157,
+      "name": "SamrSetMemberAttributesOfGroup"
+    },
+    {
+      "ordinal": 158,
+      "name": "SamrSetSecurityObject"
+    },
+    {
+      "ordinal": 159,
+      "name": "SamrShutdownSamServer"
+    },
+    {
+      "ordinal": 160,
+      "name": "SamrTestPrivateFunctionsDomain"
+    },
+    {
+      "ordinal": 161,
+      "name": "SamrTestPrivateFunctionsUser"
+    },
+    {
+      "ordinal": 162,
+      "name": "SamrUnicodeChangePasswordUser2"
+    }
+  ]
+}

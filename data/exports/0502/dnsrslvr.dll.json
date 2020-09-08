@@ -1,0 +1,23 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "33dfbb64a650807672cf11575095772c",
+  "imphash": "33dfbb64a650807672cf11575095772c",
+  "InternalName": "dnsrslvr.dll",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "DNS Caching Resolver Service",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 93051,
+  "Size": 78336,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "ServiceMain"
+    },
+    {
+      "ordinal": 2,
+      "name": "SvchostPushServiceGlobals"
+    }
+  ]
+}

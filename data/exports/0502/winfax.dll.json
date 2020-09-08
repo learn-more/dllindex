@@ -1,0 +1,239 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "e93bbfa5985c80b0868460984aba218d",
+  "imphash": "e93bbfa5985c80b0868460984aba218d",
+  "InternalName": "WinFax.DLL",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "Microsoft  Fax API Support DLL",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 95191,
+  "Size": 41472,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "FaxAbort"
+    },
+    {
+      "ordinal": 2,
+      "name": "FaxAccessCheck"
+    },
+    {
+      "ordinal": 3,
+      "name": "FaxClose"
+    },
+    {
+      "ordinal": 4,
+      "name": "FaxCompleteJobParamsA"
+    },
+    {
+      "ordinal": 5,
+      "name": "FaxCompleteJobParamsW"
+    },
+    {
+      "ordinal": 6,
+      "name": "FaxConnectFaxServerA"
+    },
+    {
+      "ordinal": 7,
+      "name": "FaxConnectFaxServerW"
+    },
+    {
+      "ordinal": 8,
+      "name": "FaxEnableRoutingMethodA"
+    },
+    {
+      "ordinal": 9,
+      "name": "FaxEnableRoutingMethodW"
+    },
+    {
+      "ordinal": 10,
+      "name": "FaxEnumGlobalRoutingInfoA"
+    },
+    {
+      "ordinal": 11,
+      "name": "FaxEnumGlobalRoutingInfoW"
+    },
+    {
+      "ordinal": 12,
+      "name": "FaxEnumJobsA"
+    },
+    {
+      "ordinal": 13,
+      "name": "FaxEnumJobsW"
+    },
+    {
+      "ordinal": 14,
+      "name": "FaxEnumPortsA"
+    },
+    {
+      "ordinal": 15,
+      "name": "FaxEnumPortsW"
+    },
+    {
+      "ordinal": 16,
+      "name": "FaxEnumRoutingMethodsA"
+    },
+    {
+      "ordinal": 17,
+      "name": "FaxEnumRoutingMethodsW"
+    },
+    {
+      "ordinal": 18,
+      "name": "FaxFreeBuffer"
+    },
+    {
+      "ordinal": 19,
+      "name": "FaxGetConfigurationA"
+    },
+    {
+      "ordinal": 20,
+      "name": "FaxGetConfigurationW"
+    },
+    {
+      "ordinal": 21,
+      "name": "FaxGetDeviceStatusA"
+    },
+    {
+      "ordinal": 22,
+      "name": "FaxGetDeviceStatusW"
+    },
+    {
+      "ordinal": 23,
+      "name": "FaxGetJobA"
+    },
+    {
+      "ordinal": 24,
+      "name": "FaxGetJobW"
+    },
+    {
+      "ordinal": 25,
+      "name": "FaxGetLoggingCategoriesA"
+    },
+    {
+      "ordinal": 26,
+      "name": "FaxGetLoggingCategoriesW"
+    },
+    {
+      "ordinal": 27,
+      "name": "FaxGetPageData"
+    },
+    {
+      "ordinal": 28,
+      "name": "FaxGetPortA"
+    },
+    {
+      "ordinal": 29,
+      "name": "FaxGetPortW"
+    },
+    {
+      "ordinal": 30,
+      "name": "FaxGetRoutingInfoA"
+    },
+    {
+      "ordinal": 31,
+      "name": "FaxGetRoutingInfoW"
+    },
+    {
+      "ordinal": 32,
+      "name": "FaxInitializeEventQueue"
+    },
+    {
+      "ordinal": 33,
+      "name": "FaxOpenPort"
+    },
+    {
+      "ordinal": 34,
+      "name": "FaxPrintCoverPageA"
+    },
+    {
+      "ordinal": 35,
+      "name": "FaxPrintCoverPageW"
+    },
+    {
+      "ordinal": 36,
+      "name": "FaxRegisterRoutingExtensionW"
+    },
+    {
+      "ordinal": 37,
+      "name": "FaxRegisterServiceProviderW"
+    },
+    {
+      "ordinal": 38,
+      "name": "FaxSendDocumentA"
+    },
+    {
+      "ordinal": 39,
+      "name": "FaxSendDocumentForBroadcastA"
+    },
+    {
+      "ordinal": 40,
+      "name": "FaxSendDocumentForBroadcastW"
+    },
+    {
+      "ordinal": 41,
+      "name": "FaxSendDocumentW"
+    },
+    {
+      "ordinal": 42,
+      "name": "FaxSetConfigurationA"
+    },
+    {
+      "ordinal": 43,
+      "name": "FaxSetConfigurationW"
+    },
+    {
+      "ordinal": 44,
+      "name": "FaxSetGlobalRoutingInfoA"
+    },
+    {
+      "ordinal": 45,
+      "name": "FaxSetGlobalRoutingInfoW"
+    },
+    {
+      "ordinal": 46,
+      "name": "FaxSetJobA"
+    },
+    {
+      "ordinal": 47,
+      "name": "FaxSetJobW"
+    },
+    {
+      "ordinal": 48,
+      "name": "FaxSetLoggingCategoriesA"
+    },
+    {
+      "ordinal": 49,
+      "name": "FaxSetLoggingCategoriesW"
+    },
+    {
+      "ordinal": 50,
+      "name": "FaxSetPortA"
+    },
+    {
+      "ordinal": 51,
+      "name": "FaxSetPortW"
+    },
+    {
+      "ordinal": 52,
+      "name": "FaxSetRoutingInfoA"
+    },
+    {
+      "ordinal": 53,
+      "name": "FaxSetRoutingInfoW"
+    },
+    {
+      "ordinal": 54,
+      "name": "FaxStartPrintJobA"
+    },
+    {
+      "ordinal": 55,
+      "name": "FaxStartPrintJobW"
+    },
+    {
+      "ordinal": 56,
+      "name": "FaxUnregisterServiceProviderW"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "Version": "5.2.3790.3959-I386",
+  "md5": "7b29003b3603a1aec4c811bb9d612f25",
+  "imphash": "7b29003b3603a1aec4c811bb9d612f25",
+  "InternalName": "WDMAUD.DRV",
+  "CompanyName": "Microsoft Corporation",
+  "FileDescription": "WDM Audio driver mapper",
+  "FileVersion": "5.2.3790.3959 (srv03_sp2_rtm.070216-1710)",
+  "ProductVersion": "5.2.3790.3959",
+  "PeChecksum": 63515,
+  "Size": 50688,
+  "Machine": "I386",
+  "exports": [
+    {
+      "ordinal": 1,
+      "name": "DriverProc"
+    },
+    {
+      "ordinal": 2,
+      "name": "auxMessage"
+    },
+    {
+      "ordinal": 3,
+      "name": "midMessage"
+    },
+    {
+      "ordinal": 4,
+      "name": "modMessage"
+    },
+    {
+      "ordinal": 5,
+      "name": "mxdMessage"
+    },
+    {
+      "ordinal": 6,
+      "name": "widMessage"
+    },
+    {
+      "ordinal": 7,
+      "name": "wodMessage"
+    }
+  ]
+}
